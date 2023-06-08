@@ -1,0 +1,1447 @@
+orgpin,accountid,description,glrollup,lineitem,predv07
+2962,14,ACCOUNTS PAYABLE,111000,Cash and Cash Equivalents,Accounts Payable
+3121,1969,PAS Refund Account,(( LAWSON - DO NOT USE )),Cash and Cash Equivalents,Accounts Payable
+3121,2165,AP-Electronic Fund Transfers (EFTS),(( LAWSON - DO NOT USE )),Cash and Cash Equivalents,Accounts Payable
+3121,2174,Pas Refund Account,(( LAWSON - DO NOT USE )),Cash and Cash Equivalents,Accounts Payable
+3121,2218,Received - Misc Unidentified,(( LAWSON - DO NOT USE )),Cash and Cash Equivalents,Accounts Payable
+3121,2221,Received Misc Unidentified,(( LAWSON - DO NOT USE )),Cash and Cash Equivalents,Accounts Payable
+3136,190,ACCTS PAYABLE,ASSET,Cash and Cash Equivalents,Accounts Payable
+3200,17,CHASE AP VENDOR CARD,Not Specified,Cash and Cash Equivalents,Accounts Payable
+1975,20661,WELLS FARGO - ACCOUNTS PAYABLE,,Cash and Cash Equivalents,Accounts Payable
+1170,23,Refund Clearing - A-R Epic PB Refunds,Spectrum Financials,Cash and Cash Equivalents,Accounts Payable
+2950,2535,A-P Amex Vpymt,Accounts Payable,Cash and Cash Equivalents,Accounts Payable
+1178,14239,Patient Refunds-Patient Refunds-Epic-PB,,Accounts Payable,Accounts Receivable (Gross)
+1178,14247,Patient Refunds-Patient Refunds-Epic-HB,,Accounts Payable,Accounts Receivable (Gross)
+2719,1195,PATIENT REFUNDS,,Accounts Payable,Accounts Receivable (Gross)
+2719,1276,CERNER PT REF PYBLE,,Accounts Payable,Accounts Receivable (Gross)
+2972,1228,CREDIT BALANCE IN AR,LIABILITIES,Accounts Payable,Accounts Receivable (Gross)
+2988,11461,A-P IDX A-R Credit Balances,Liabilities,Accounts Payable,Accounts Receivable (Gross)
+2988,11462,A-P IDX A-R Credit Bal - East,Liabilities,Accounts Payable,Accounts Receivable (Gross)
+3150,699,PATIENT REFUNDS,Not Specified,Accounts Payable,Accounts Receivable (Gross)
+3157,19942,PATIENT REFUNDS 05,Not Specified,Accounts Payable,Accounts Receivable (Gross)
+3165,3472,Refund Clearing Account,PATAR,Accounts Payable,Accounts Receivable (Gross)
+3165,3905,Patient Refunds,ACCTSPAY,Accounts Payable,Accounts Receivable (Gross)
+3177,287,PATIENT REFUNDS,,Accounts Payable,Accounts Receivable (Gross)
+3184,312,A-P-WASHINGTON REGIONAL MEDICAL CENTER,BS-Assets,Accounts Payable,Accounts Receivable (Gross)
+3184,313,A-P-HEALTH PARTNERS,BS-Assets,Accounts Payable,Accounts Receivable (Gross)
+3192,887,A-P - Interco PT Refunds,,Accounts Payable,Accounts Receivable (Gross)
+3192,888,Credit Balance A-R,,Accounts Payable,Accounts Receivable (Gross)
+3194,703,230002-Patient Credit Balances-,Liabilities,Accounts Payable,Accounts Receivable (Gross)
+3196,682,PATIENT INSURANCE REFUNDS,Not Specified,Accounts Payable,Accounts Receivable (Gross)
+3200,342,PATIENT REFUNDS - SANDWICH,Not Specified,Accounts Payable,Accounts Receivable (Gross)
+1975,2505,RECLASS OF CREDIT AR BAL.,Patient Credit Balances,Accounts Payable,Accounts Receivable (Gross)
+3161,491,A-P-Refunds-Clearing,ACCOUNTSPAY,Accounts Payable,Accounts Receivable (Gross)
+3214,5701,A-P CLEARING-OR,BALSH,Accounts Payable,Accounts Receivable (Gross)
+3214,5674,A-P P-A REFUND CREDIT BALANCE,BALSH,Accounts Payable,Accounts Receivable (Gross)
+3218,1508,EPIC Credit Balances,NO,Accounts Payable,Accounts Receivable (Gross)
+3152,644,Refund Clearing EPIC - Refund Clearing EPIC,Refund Clearing EPIC,Accounts Payable,Accounts Receivable (Gross)
+3152,498,Refund Clearing EPIC,Refund Clearing EPIC,Accounts Payable,Accounts Receivable (Gross)
+3152,647,Refund Clearing Home Health - Refund Clearing Home Health,Refund Clearing Home Health,Accounts Payable,Accounts Receivable (Gross)
+1192,9643,Benefits - Employer,Payroll Payroll Taxes,Accrued Employee Compensation and Benefits,Benefits
+1192,9644,Benefits - Employee,Payroll Payroll Taxes,Accrued Employee Compensation and Benefits,Benefits
+1246,12722,DEFINED CONTRIBUTION ADMIN COSTS,Accrued Payroll Tax and Benefits,Accrued Employee Compensation and Benefits,Benefits
+1829,1319,P/R W/H TAXES-FICA,,Accrued Employee Compensation and Benefits,Benefits
+1829,1323,INS-VCUHS HEALTH MED (CIGNA),,Accrued Employee Compensation and Benefits,Benefits
+1829,1325,INS-VCU DENTAL,,Accrued Employee Compensation and Benefits,Benefits
+1829,1327,INS-LIFE,,Accrued Employee Compensation and Benefits,Benefits
+1829,1328,INS-DISABILITY,,Accrued Employee Compensation and Benefits,Benefits
+1829,1332,RETIREMENT-VCUHS,,Accrued Employee Compensation and Benefits,Benefits
+2053,550,Short Term Post Retirement,PENSION_POST_RETIRMT,Accrued Employee Compensation and Benefits,Benefits
+2719,1210,FICA EMPLOYER TAX,,Accrued Employee Compensation and Benefits,Benefits
+2962,792,LONG-TERM DISABILITY,211700,Accrued Employee Compensation and Benefits,Benefits
+2980,121,UNEMPLOYMENT,Unemployment,Accrued Employee Compensation and Benefits,Benefits
+2980,559,403B,403B,Accrued Employee Compensation and Benefits,Benefits
+2980,1231,HEALTH PROGRAMS,Health Programs,Accrued Employee Compensation and Benefits,Benefits
+2980,1459,LIFE INSURANCE,Life Insurance,Accrued Employee Compensation and Benefits,Benefits
+2980,2837,401K,401K,Accrued Employee Compensation and Benefits,Benefits
+2992,21721,JONES GENERAL FRINGE BENEFITS,FRINGE BENEFITS,Accrued Employee Compensation and Benefits,Benefits
+2992,21725,JONES GENERAL FRINGE BENEFITS,FRINGE BENEFITS,Accrued Employee Compensation and Benefits,Benefits
+2992,44662,GROUP HEALTH EMPLOYEE PREMIUMS WITHHELD,GROUP HEALTH EMPLOYEE PREMIUMS,Accrued Employee Compensation and Benefits,Benefits
+2992,44744,GROUP HEALTH EMPLOYEE PREMIUMS WITHHELD,GROUP HEALTH EMPLOYEE PREMIUMS,Accrued Employee Compensation and Benefits,Benefits
+2992,47668,AC EMPLOYEE BENEFITS HSA-FSA PLAN EXPENSE,HSA-FSA PLAN EXPENSE,Accrued Employee Compensation and Benefits,Benefits
+3110,354,L-T DISABILITY INSURANCE,L,Accrued Employee Compensation and Benefits,Benefits
+3110,357,TAXABLE EMPLOYEE AWARDS,L,Accrued Employee Compensation and Benefits,Benefits
+3110,359,WORKERS COMPENSATION,L,Accrued Employee Compensation and Benefits,Benefits
+3132,2434,Payroll Deduction Other Employee Benefits Non Physician,Payroll Deduction,Accrued Employee Compensation and Benefits,Benefits
+3132,2436,Employee Benefits Non Physician Accrued Payroll,Employee Benefits Non Physician,Accrued Employee Compensation and Benefits,Benefits
+3146,5172,Unemployment Ins Prem - Staff Unemployment,Employer Required Taxes,Accrued Employee Compensation and Benefits,Benefits
+3150,708,STATE DISABILITY INSURANCE W-H,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3150,717,EMPLOYEE INSUR LT DISABILITY,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3150,723,WORKERS COMPENSATION,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3150,733,VISION PTX,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3150,734,DPI VISION CREDIT,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3150,735,DENTAL PTX,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3150,736,DPI DENTAL CREDIT,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3157,19612,WORKERS COMP GROSS-UP,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3157,19913,UNEMPLOYMENT INSURANCE,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3157,19925,UTICA LIFE INSURANCE,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3157,19931,FRINGE BENEFITS DED PAY 05,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3157,19967,GUARDIAN LIFE INS,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3177,290,TAX-FICA,,Accrued Employee Compensation and Benefits,Benefits
+3177,317,PENSION ACCUMULATOR,,Accrued Employee Compensation and Benefits,Benefits
+3177,318,PENSION ACCUM-409A,,Accrued Employee Compensation and Benefits,Benefits
+3179,591,EMPIRE 401K,0,Accrued Employee Compensation and Benefits,Benefits
+3179,595,EMPIRE QACA 401K LN,0,Accrued Employee Compensation and Benefits,Benefits
+3196,686,HEALTH INSURANCE,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3196,688,DENTAL INSURANCE,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3196,695,TDA-AETNA LIFE INSURANCE,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3196,700,SPH RETIREMENT PLAN (W-H),Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3196,719,WORKERS COMPENSATION,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3198,392,ACCRUAL- LIFE INSURANCE,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3198,393,ACCRUAL- HEALTH INSURANCE,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3198,397,LTD EXEC and PHYSICIAN,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3198,400,ACCRUAL- VISION PLAN,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3198,405,401 RETIREMENT,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3198,406,457B-RETIREMENT,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3198,422,ACCRUAL- FICA,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3200,364,SHORT TERM DISABILITY FOR PTES,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3200,365,LIFE AND LONG TERM INSURANCE,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3200,372,FUTA,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3200,373,SUTA,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3200,374,EMPL SPENDING A-C - FLEXBEN,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+1975,22769,BLUE CROSS HEALTH INSURANCE,,Accrued Employee Compensation and Benefits,Benefits
+1975,13572,EMPLOYEE FUND,,Accrued Employee Compensation and Benefits,Benefits
+1975,14141,FUTA,,Accrued Employee Compensation and Benefits,Benefits
+1975,13538,FICA-INCENTIVE PROGRAM,,Accrued Employee Compensation and Benefits,Benefits
+3228,980,DC PLAN and 403B MATCH,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3228,981,PHYSICIAN 457B and 403B MATCH,Not Specified,Accrued Employee Compensation and Benefits,Benefits
+3220,1398,Emp Contr Physician Group Life,Life Insurance,Accrued Employee Compensation and Benefits,Benefits
+1475,3864,Health Insurance,Balance Sheet,Accrued Employee Compensation and Benefits,Benefits
+3218,3073,Employee Health Insurance,NO,Accrued Employee Compensation and Benefits,Benefits
+3218,3042,Long Term Disability Ins,NO,Accrued Employee Compensation and Benefits,Benefits
+2968,1503,CPE TUITION FUND,2050,Accrued Employee Compensation and Benefits,Benefits
+1137,7969,Employer Paid Taxes - Workers Compensation-PR - Health and Dental Insurance,,Accrued Employee Compensation and Benefits,Benefits
+1137,952,Employee Education-Training,Other Expenses,Other Expenses,Benefits
+1137,1091,CPI Training,Other Expenses,Other Expenses,Benefits
+1170,4828,Benefits Staff-Maintenance and Repairs Non-Clinical Other,Spectrum Financials,Other Expenses,Benefits
+1170,4834,Benefits Staff-Billed Provider Services,Spectrum Financials,Other Expenses,Benefits
+1284,2114,Training Development,Other Operating Expenses,Other Expenses,Benefits
+1284,4249,Benefits-Development Commun,Other Operating Expenses,Other Expenses,Benefits
+1829,907,TRAVEL-LODGING,PROF_DEV,Other Expenses,Benefits
+1975,276,SCHOLARSHIPS AND AWARDS,Other (exp),Other Expenses,Benefits
+2036,171,EDUCATION,EXPENSES,Other Expenses,Benefits
+2036,172,TUITION AND BOOKS,EXPENSES,Other Expenses,Benefits
+2706,3896,In-house Training,INDIRECT MARGIN,Other Expenses,Benefits
+2714,448,Education - Including Travel,Other Expenses,Other Expenses,Benefits
+2719,78,EMP BENE-HOSP FUNCTION,Other (Operating),Other Expenses,Benefits
+2950,1679,Tuition Assistance,Education Expenses,Other Expenses,Benefits
+2950,1719,Prospective Staff,Prospective Staff,Other Expenses,Benefits
+2950,1725,Relocation Expense,Relocation Expenses,Other Expenses,Benefits
+2973,2152,VASCULAR TECH TUITION,SUPPLIES AND SERVICES,Other Expenses,Benefits
+2973,6572,EMPLOYEE ENGAGEMENT COMMITEE,SUPPLIES AND SERVICES,Other Expenses,Benefits
+2975,292,PHYSICIAN-EMPLOYEE GUARANTEES,OTH OPERATING EXP,Other Expenses,Benefits
+2980,1466,ALCOHOL,Travel - Business,Other Expenses,Benefits
+2982,1499,Assoc Pract Dues Subscriptions,EMPLBENEFITS,Other Expenses,Benefits
+2988,272,Continuing Medical Education,30 - Services,Other Expenses,Benefits
+2988,9889,Other Benefits - Academic Enrichment,Other Employee Expenses,Other Expenses,Benefits
+2988,13509,Employee Recognition,Other Expense,Other Expenses,Benefits
+2988,13662,Fee Authorizations,Student Aid,Other Expenses,Benefits
+2988,13666,Athletic Awards,Student Aid,Other Expenses,Benefits
+2990,1229,Tuition- Scholarship-Books,EOOTHCOMM,Other Expenses,Benefits
+2992,23679,TELECOMMUNICATIONS CONT ED EXPENSE,CONTINUING EDUCATION EXPENSE,Other Expenses,Benefits
+2992,24683,PROCESS IMPROVEMENT STAFF DEVLPMNT-TRAIN,STAFF DEVLPMNT-TRAIN,Other Expenses,Benefits
+2992,36696,NWA FND OFFICE VOLUNTEER RECOGNITN,VOLUNTEER RECOGNITN,Other Expenses,Benefits
+2992,38508,AC EMPLOYEE BENEFITS PRINTING,PRINTING,Other Expenses,Benefits
+2992,44650,FandA MATCHING INCENTIVE,FandA MATCHING INCENTIVE,Other Expenses,Benefits
+2992,46002,SAFECARE ADMIN STAFF DEVLPMNT-TRAIN,STAFF DEVLPMNT-TRAIN,Other Expenses,Benefits
+2992,46208,INFORMATICS CONT ED EXPENSE,CONTINUING EDUCATION EXPENSE,Other Expenses,Benefits
+2992,47371,ACNW VOLUNTEERS VOLUNTEER RECOGNITN,VOLUNTEER RECOGNITN,Other Expenses,Benefits
+2992,63802,3C Intermediate Care-Benefits Expense-,,Other Expenses,Benefits
+2992,63805,Family Resource Library-Benefits Expense-,,Other Expenses,Benefits
+2992,63886,Annual Gifts-Benefits Expense-,,Other Expenses,Benefits
+2992,63967,Lab-Benefits Expense-,,Other Expenses,Benefits
+2992,63979,Pediatric Department-Benefits Expense-,,Other Expenses,Benefits
+2992,64037,Transport Services-Other Operating Expense-Continuing Education,CONTINUING EDUCATION EXPENSE,Other Expenses,Benefits
+2992,64042,5E Medical-Benefits Expense-,,Other Expenses,Benefits
+2992,64051,4D Neuroscience-Benefits Expense-,,Other Expenses,Benefits
+2992,64055,Wellness Program-Benefits Expense-,,Other Expenses,Benefits
+2992,64056,Accounting-Benefits Expense-,,Other Expenses,Benefits
+2992,64101,Admissions and Financial Counseling-Other Operating Expense-Continuing Educati,CONTINUING EDUCATION EXPENSE,Other Expenses,Benefits
+3110,1161,PHYSICIAN ADVISORY,E,Other Expenses,Benefits
+3112,3755,CUSTOMER SERVICE RECOGNITION,OTHER EXPENSES,Other Expenses,Benefits
+3112,4482,EMPLOYEE ACTIVITIES,OTHER EXPENSES,Other Expenses,Benefits
+3118,655,EMPLOYEE ASSISTANCE,EXPENSE,Other Expenses,Benefits
+3118,657,EMPLOYEE GIFTS-AWARDS-ACTIVITIES,EXPENSE,Other Expenses,Benefits
+3118,659,EMPLOYEE RELOCATION COSTS,EXPENSE,Other Expenses,Benefits
+3120,498,Awards Recognition,Other Operating Expense,Other Expenses,Benefits
+3121,4297,Employee Activity,( LAWSON - IS - Operating Expenses - Other Supplies and Services ),Other Expenses,Benefits
+3121,5086,Physician Loan Amortization,( LAWSON - IS - Operating Expenses - Other Supplies and Services ),Other Expenses,Benefits
+3121,8079,Misc Tuition Reimbursement,(( LAWSON - DO NOT USE )),Other Expenses,Benefits
+3122,1010,EMPLOYEE RECOGNITION-AWARDS,OUTSIDE MEALS and ENTERTAINMENT,Other Expenses,Benefits
+3133,1604,720300-WELLNESS PROGRAM,NON-PHY FRNG,Other Expenses,Benefits
+3136,678,TRAVEL,EXPENSE,Other Expenses,Benefits
+3136,727,PROFESSIONAL DEVELOPMENT,EXPENSE,Other Expenses,Benefits
+3146,1503,TRAVEL,Expense,Other Expenses,Benefits
+3146,1534,GRANT OTHER BENEFITS,Expense,Other Expenses,Benefits
+3146,2735,Employee Recognition,Recruitment,Other Expenses,Benefits
+3148,1046,TRAVEL,OTHER,Other Expenses,Benefits
+3159,2127,PUBLIC REL:MED ILLUSTRATION,Public Relations-Employee Rec,Other Expenses,Benefits
+3159,2142,PUBLIC REL:BUSINESS RELATIONS,Public Relations-Employee Rec,Other Expenses,Benefits
+3159,2345,TRAVEL:DOMESTIC,Other Expense,Other Expenses,Benefits
+3159,2454,PROF DEV:RETENTION ACTIVITIES,Public Relations-Employee Rec,Other Expenses,Benefits
+3159,2750,DEPARTMENT RELOCATION EXPENSE,Public Relations-Employee Rec,Other Expenses,Benefits
+3159,2781,CLINICAL INCENTIVES,Public Relations-Employee Rec,Other Expenses,Benefits
+3163,605,GS EDUCATION,EOC,Other Expenses,Benefits
+3165,4115,Recognition Expense,SUPPLIESOTH,Other Expenses,Benefits
+3167,79,Awards,Expense,Other Expenses,Benefits
+3167,3342,CIPChgbacks-Admin,Expense,Other Expenses,Benefits
+3167,3371,CCARE-Admin,Expense,Other Expenses,Benefits
+3169,1506,CME,EXPENSES,Other Expenses,Benefits
+3173,770,Outside training sessions,Training,Other Expenses,Benefits
+3175,14,CME,NET INCOME,Other Expenses,Benefits
+3175,51,CERTIFICATION,NET INCOME,Other Expenses,Benefits
+3175,1921,PUBLICATION MATERIALS-PLAQUES-RECOGNITION,NET INCOME,Other Expenses,Benefits
+3177,597,TUITION EXPENSE,,Other Expenses,Benefits
+3177,599,ONA-TUITION,,Other Expenses,Benefits
+3177,605,EMPLOYEE PREVENTATIVE,,Other Expenses,Benefits
+3184,949,FORMS EXP,PL-Expenses,Other Expenses,Benefits
+3184,1103,COMM BENEFIT SUBSIDIZED SERVICES EXP,PL-Expenses,Other Expenses,Benefits
+3192,181,Candidate Travel,Outside training travel and education,Other Expenses,Benefits
+2727,19782,Dues_Licenses-Physicians,Employee Benefits,Other Expenses,Benefits
+2727,20724,Volunteer Service Awards,Other Expense,Other Expenses,Benefits
+3113,70159,STA HS PROGRAM CONFERENCE-TRAINING,Expenses,Other Expenses,Benefits
+3113,70273,STA ADMINSTRATION PENSION NET CHANGE,Expenses,Other Expenses,Benefits
+3204,439,ADMINISTRATION,OPERATING EXPENSES,Other Expenses,Benefits
+2052,151,Outside Training,Other,Other Expenses,Benefits
+3228,891,TRUSTEE EDUCATION,Not Specified,Other Expenses,Benefits
+3210,112,PRIMARY CARE PHYSICIAN CAP,Medical claims,Other Expenses,Benefits
+3202,2932,PROFESSIONAL DEVELOPMENT,78100-EDUCATION,Other Expenses,Benefits
+3220,916,RN Loan Reimbursement Program,Education Expenses,Other Expenses,Benefits
+3220,790,Prospective Staff,Prospective Staff,Other Expenses,Benefits
+3220,1396,Tuition Assistance,Education Expenses,Other Expenses,Benefits
+3218,1614,Travel - NonEmployee,Travel and Membership,Other Expenses,Benefits
+1191,3505,Teaching Supplies,Education Training,Other Expenses,Benefits
+1191,3504,Conference Supplies,Education Training,Other Expenses,Benefits
+3105,7479,Student Tuition Expense,080 FEES,Other Expenses,Benefits
+3105,3362,Other Guests Travel Exp,100 SUPPLIES,Other Expenses,Benefits
+2968,3340,MILEAGE,7060,Other Expenses,Benefits
+3230,274,GIFTS-AWARDS,Other expense,Other Expenses,Benefits
+2992,68437,Other Operating Expense-Staff Development Education,Operating,Other Expenses,Benefits
+2992,65728,Overhead Expense-Health Savings Account Contribution,FG,Other Expenses,Benefits
+2949,1679,Subrecipient Awards,7400 Other expenses,Other Expenses,Benefits
+1137,7992,Continuing Medical Education-Training - Materials,,Other Expenses,Benefits
+1496,4700,Recoveries - Hosp Tuition,Other Expenses,Other Expenses,Benefits
+3135,6878,C P R TRAINING,OTHER EXPENSE,Other Expenses,Benefits
+2990,156,I-D Capitation,EOIDHLTH,Contract Labor,Capitation Revenue
+1178,13692,Cash-Other-Medicare,,Accounts Receivable (Gross),Cash and Cash Equivalents
+2053,52,Cash Ctrl - POS Cash Receipts,UNAPPLIED_CASH,Accounts Receivable (Gross),Cash and Cash Equivalents
+2053,61,Cash Ctrl - EMS - Lockbox,UNAPPLIED_CASH,Accounts Receivable (Gross),Cash and Cash Equivalents
+2988,10955,Deposit in Transit,Assets,Accounts Receivable (Gross),Cash and Cash Equivalents
+2988,11003,Returned Checks and Credit Card,Assets,Accounts Receivable (Gross),Cash and Cash Equivalents
+1170,262,Epic Single Business Office Cash Clearing,Spectrum Financials,Accounts Receivable (Gross),Cash and Cash Equivalents
+1170,3560,Epic Enterprise Cash Clearing,Spectrum Financials,Accounts Receivable (Gross),Cash and Cash Equivalents
+3121,2270,Unclassified Cash,(( LAWSON - DO NOT USE )),Accounts Receivable (Gross),Cash and Cash Equivalents
+3136,388,LEGACY CASH CHK CR CD,ASSET,Accounts Receivable (Gross),Cash and Cash Equivalents
+3136,772,A-R AHC - EDI AGENCY,ASSET,Accounts Receivable (Gross),Cash and Cash Equivalents
+3173,522,Limited Use Savings Accounts,Assets,Accounts Receivable (Gross),Cash and Cash Equivalents
+3192,819,Returned Checks - Physician,,Accounts Receivable (Gross),Cash and Cash Equivalents
+3192,821,Unresolved PA Cash,,Accounts Receivable (Gross),Cash and Cash Equivalents
+1975,13382,UNIDENTIFIED CASH,,Accounts Receivable (Gross),Cash and Cash Equivalents
+1975,22734,DENTAL CASH CLEARING,,Accounts Receivable (Gross),Cash and Cash Equivalents
+3214,3692,US BANK UNAPPLIED,BALSH,Accounts Receivable (Gross),Cash and Cash Equivalents
+1178,14425,Unapplied Cash-Epic-HB,Current Assets,Accounts Receivable (Gross),Cash and Cash Equivalents
+1178,14427,Unapplied Cash-Other (Non-System),Current Assets,Accounts Receivable (Gross),Cash and Cash Equivalents
+1829,1650,A/R - CSBR APPLIED CASH,,Accounts Receivable (Gross),Cash and Cash Equivalents
+1157,418,Exchange Account SFI,Other Accounts,Accounts Receivable - Other,Cash and Cash Equivalents
+1178,14428,Returned Checks-Epic-HB,,Accounts Receivable - Other,Cash and Cash Equivalents
+1747,14034,UNAPPLIED CASH-OTHER AU MEDICAL CENTER,,Accounts Receivable - Other,Cash and Cash Equivalents
+2719,1091,CASH CLEARING ACCOUNT,,Accounts Receivable - Other,Cash and Cash Equivalents
+2956,721,AR- Receipts - Stuttgart,Cash,Accounts Receivable - Other,Cash and Cash Equivalents
+2972,268,INTERCOMPANY CASH PAYMENTS,ASSETS,Accounts Receivable - Other,Cash and Cash Equivalents
+2972,403,INTERCOMPANY CASH PAYMENTS,ASSETS,Accounts Receivable - Other,Cash and Cash Equivalents
+3110,15,RETURNED CHECKS,A,Accounts Receivable - Other,Cash and Cash Equivalents
+3121,7870,Void Holding-4158-HP58,(( LAWSON - DO NOT USE )),Accounts Receivable - Other,Cash and Cash Equivalents
+3214,2462,A-R CORPORATE CASH,BALSH,Accounts Receivable - Other,Cash and Cash Equivalents
+3152,778,Unapplied on Non-Patient Accounts - Cash Clearing Flexi,Unapplied on Non-Patient Accounts,Accounts Receivable - Other,Cash and Cash Equivalents
+3167,99,REMI Contract,Expense,Other Expenses,Contract Labor
+3167,3454,Agency Contract Fees,Expense,Other Expenses,Contract Labor
+1157,1680,OSFHP Agency Fees,Supplies and Other Expenses,Other Expenses - General and Admin,Contract Labor
+2992,48235,ASFOTASE ALFA HPP CONTRACT,CONTRACT,Other Expenses - General and Admin,Contract Labor
+2977,2888,CONTRACT LABOR,TOTAL PROFESSIONAL FEES,Professional Fees,Contract Labor
+3146,1720,CONTRACT LABOR AFFILIATE,Expense,Professional Fees,Contract Labor
+3105,27340,Accrued Purchased Labor Locum Tenens,060 LABOR,Professional Fees,Contract Labor
+3105,7409,Purchased Labor Locum Tenens,060 LABOR,Professional Fees,Contract Labor
+2990,6130,Additional Risk-BCD,ECONMEDSERV,Professional Fees,Contract Labor
+2990,6488,IBNR-Humana,ECONMEDSERV,Professional Fees,Contract Labor
+1284,849,Temporary Help,Purchased Services,Purchased Services,Contract Labor
+2972,3411,CONTRACTED MEDICAL EXTERNAL,CONTRACTED MEDICAL SERVICES,Purchased Services,Contract Labor
+2988,9485,Physician Contract Labor,Administrative Expense,Purchased Services,Contract Labor
+2988,9486,Physician Contract Labor,Administrative Expense,Purchased Services,Contract Labor
+2988,9487,Midlevel Contract Labor,Administrative Expense,Purchased Services,Contract Labor
+2988,9488,Midlevel Contract Labor,Administrative Expense,Purchased Services,Contract Labor
+2990,6015,APP Clinical Integration Distribution,EOHLTH,Purchased Services,Contract Labor
+3112,3589,PURCH SERV TEMP AGENCY RN,CONTRACTED FEES,Purchased Services,Contract Labor
+3112,5313,PURCH SERV TEMP AGENCY AIDES,CONTRACTED FEES,Purchased Services,Contract Labor
+3230,404,HOUSEKEEP CONTRACT,,Purchased Services,Contract Labor
+2706,4435,Salaries - Temporary Help,INDIRECT MARGIN,Salaries,Contract Labor
+2741,1160,CONTRACT LABOR-NONMEDICAL,CONTRACT LAB,Salaries,Contract Labor
+2741,1163,CONTRACT LABOR-MEDICAL CARE,CONTRACT LAB,Salaries,Contract Labor
+2972,2944,TEMP HELP SUPERVISOR,TEMPORARY HELP,Salaries,Contract Labor
+2972,2949,TEMP HELP STUDENTS,TEMPORARY HELP,Salaries,Contract Labor
+2972,3114,TEMP HELP BUDGET ADJ,TEMPORARY HELP,Salaries,Contract Labor
+2972,3212,TEMP HELP REV ADVOCATE,TEMPORARY HELP,Salaries,Contract Labor
+2988,156,Agency Sitters,24 - Salaries,Salaries,Contract Labor
+2988,157,Agency Employees,24 - Salaries,Salaries,Contract Labor
+2992,46471,AUTISM MITOCHON ANAL SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,46539,GIFTSS APR 2018 SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,46801,DIETARY CHOLESTEROL SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,47537,VASCULAR ANOMALIES SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,47674,ARHMS FY18 SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,47680,BD-STEPS AUG 18 SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,47752,TROPHOBLAST SYNCYTIA SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,47822,CHRONIC FATIGUE SYND SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,47827,PHYTOCANN MITO DYS SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,47860,PHENO META OBESITY Y SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,47864,PHYSIOLOGIC BIOMARKE SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,48002,METHIONINE SULFOXIDE SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,48021,ABI RAHMATALLAH SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,48026,CHROMOSOME 7q11.23 SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,48107,I-MAP CHRONIC TBI 3 SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,48113,COBRE - TAS PILOT YR SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,48152,METABOLIC NETWORKS A SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,48231,DEV IMPACT OF NICU E SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,48374,ABI NABAWEESI SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,48397,ABI BLOSSOM SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,48410,COBRE-THAKALI PILOT SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,48534,DIETARY SOY PROTEINS SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,48857,TEAM-ED FEB19 SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,48940,L JAMES GENERAL SALARIES - CONTRACT,SALARIES - CONTRACT,Salaries,Contract Labor
+2992,52732,Child Enrichment-Salaries-Salaries - Agency,SALARIES - AGENCY,Salaries,Contract Labor
+2992,65243,Human Resources-Salaries-Salaries - Agency OT,,Salaries,Contract Labor
+2992,65753,Overhead Expense-Salaries - Contract,ISG,Salaries,Contract Labor
+2995,7230,Contract Labor-Clin-IC,Contract Labor Clini,Salaries,Contract Labor
+2995,7234,Contrct Labor-Other,Contract Labor Other,Salaries,Contract Labor
+2995,10286,Contract Labor-Intercompany,Contract Labor Other,Salaries,Contract Labor
+2727,19767,Contract Labor-Physician,Salaries and Wages,Salaries,Contract Labor
+2727,19771,Contract Labor-Staff,Salaries and Wages,Salaries,Contract Labor
+1178,12962,Contractual Adjustments,Current Assets,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1170,250,INCTV-Medicaid Qtrly Interim Physician Pmt,LEGACY CONTRACTUAL ALLOWANCES A-R,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1178,14242,Contractual Adjustments-Epic-HB,Current Assets,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1178,14251,Contractual Adjustments-Other (Non-System),,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1178,15208,Contractual Adjustments-ABEO,Current Assets,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1305,2879,Medicaid Allowances,MEDICAID,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1747,14011,CONTRACTUAL ALLOWANCES / AU MEDICAL CENTER,,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1885,11746,Allow - Medicare,Contractual allowances,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1885,11747,Allow - Medicaid,Contractual allowances,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1885,11748,Allow - Other,Contractual allowances,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1885,12344,Allow - Medicare DG,Contractual allowances,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1885,12357,Allow - Medicaid DG,Contractual allowances,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1885,12358,Allow - Medicare Advantage,Contractual allowances,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1885,12359,Allow - Medicaid Mgd Care,Contractual allowances,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1975,529,DRG ALLOWANCE MEDICAID,Contractuals,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1975,12188,EPIC CLEARING - ALLOWANCES,Contractuals,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1975,13052,OBS OTHER ALLOW - MEDICARE,Contractuals,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1975,17386,BAD DEBT OBS DENIALS - AUTO,Contractuals,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1975,19106,OBS OTHER ALLOW - MEDICARE ADVANTAGE,Contractuals,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1975,19131,BAD DEBT OP OTHER ALLOW - MEDICAID MC,Contractuals,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1975,19141,BAD DEBT OP OTHER ALLOW - COMMERCIAL-HMO,Contractuals,Accounts Receivable - Contractual Allowance,Contractual Allowances
+2719,1105,RAC WRITE OFFS,,Accounts Receivable - Contractual Allowance,Contractual Allowances
+2719,1107,OP MEDICARE ALLOWANCE,,Accounts Receivable - Contractual Allowance,Contractual Allowances
+2719,1113,IP OTHER ALLOWANCE,,Accounts Receivable - Contractual Allowance,Contractual Allowances
+2719,1114,OP OTHER ALLOWANCE,,Accounts Receivable - Contractual Allowance,Contractual Allowances
+2719,1144,OP MEDICARE ALLOWANCE,,Accounts Receivable - Contractual Allowance,Contractual Allowances
+2719,1149,IP COMM ALLOWANCE,,Accounts Receivable - Contractual Allowance,Contractual Allowances
+2950,2225,Allow - Miss Medicaid,Patient Acct Receivable Net,Accounts Receivable - Contractual Allowance,Contractual Allowances
+2950,3505,Allow-OHP Self Funded,Patient Acct Receivable Net,Accounts Receivable - Contractual Allowance,Contractual Allowances
+2973,835,OUTPATIENT CONTRACTUAL RESERVE,ACCOUNTS RECEIVABLE,Accounts Receivable - Contractual Allowance,Contractual Allowances
+2980,761,CA HOSPICE,Contractual Allow - Hospice A-R,Accounts Receivable - Contractual Allowance,Contractual Allowances
+2980,5408,CA-LONG TERM CARE,Contractual Allow - Long Term Care A-R,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3110,46,MEDICAID O/P CONTRACTUALS,A,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3111,26,ALLOW OTHER ADJUST-IP ACUTE,ALLOWANCES,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3117,42,CONTRACTUAL ADJ MEDICARE,CONTRACTUAL ALLOWANCE,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3117,43,CONTRACTUAL ADJ MEDICAID,CONTRACTUAL ALLOWANCE,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3117,46,CONTRACTUAL ADJ PPO,CONTRACTUAL ALLOWANCE,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3117,47,CONTRACTUAL ADJ OTHER,CONTRACTUAL ALLOWANCE,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3117,49,CONTRACTUAL ADJ RUL HLTH,CONTRACTUAL ALLOWANCE,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3121,2375,Cont Adj - General Accounting,(( LAWSON - DO NOT USE )),Accounts Receivable - Contractual Allowance,Contractual Allowances
+3132,856,Suspense Other Contractual Adjustment,Other Assets,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3142,241,Allowance-Other Contr Adj,Patient Receivables,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3150,83,CONT-ADJ MCARE-TRADITIONAL OP,Not Specified,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3150,96,CONT-ADJ HMO-PPO TRAD IP,Not Specified,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3150,97,CONT-ADJ HMO-PPO TRAD OP,Not Specified,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3159,2561,CONTRACTUAL ALLOWANCES,Contractual Allowances,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3169,78,ESTIMATED RATE ADJ USHC CONTRACT,ASSETS,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,139,DENIAL RESERVES,1190,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,155,MCARE CY LUMPSUM ADJ,1190,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,159,SEQUESTRATION,1190,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,160,UNCOMP CARE SETTLMNT,1190,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,164,IL DENIALS,1191,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,178,HMO-PPO I-P,1192,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,179,HMO-PPO O-P,1192,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,180,MCARE MGD CARE I-P,1192,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,181,MCARE MGD CARE O-P,1192,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,192,BCBS IP CONTRACTUAL,1193,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,193,BCBS OP CONTRACTUAL,1193,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,196,IP ACCR. CHGS-PMTS,1193,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,197,CHAMPUS I-P,1194,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,198,CHAMPUS O-P,1194,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,203,OTHER GOVT I-P,1194,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,204,OTHER GOVT O-P,1194,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,209,COMMERCIAL IP,1194,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,210,COMMERCIAL OP,1194,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,214,IP SP DISC PROGRAM,1194,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,2996,PRE-ACQ CONTR ALLOW,1105,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,3039,HHA CONTRACTUAL,1194,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3179,3041,SEPARATE AUDIT ADJ,1194,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3192,827,Contractuals,,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3196,31,A-R HMO-PPO CONTRACTUALS,Not Specified,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3196,32,A-R COMMERCIAL CONTRACTUALS,Not Specified,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3196,33,A-R PERSONAL PAY CONTRACTUALS,Not Specified,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3196,34,A-R WORKERS COMP CONTRACTUALS,Not Specified,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3196,36,A-R OTHER PAYORS CONTRACTUALS,Not Specified,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1975,23408,911 EMERGENCY CA RESERVE,,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3214,6426,Outpatient Contractual Reserve,BALSH,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3214,6427,INPATIENT CONTRACTUAL RESERVE,BALSH,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3228,54,MEDICARE-CONTRACTUAL UNPAID,Not Specified,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3228,56,MEDICAID CONTRACTUAL-UNPAID,Not Specified,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3210,1368,PROVISION CONTRACTUAL MEDICAID,Less: uncompensated care,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3202,2627,MEDICAID ADDITIONAL PROVISION,45600-ADDITIONAL PROVISION,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3218,2951,Contractual,NO,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3218,2991,CLOSED Radiation Oncology Contractual,NO,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3218,2997,Late Charges Contractual,NO,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3218,8,GDSC Contractual,NO,Accounts Receivable - Contractual Allowance,Contractual Allowances
+2950,3843,AFCA-Hospital Champus,Patient Acct Receivable Net,Accounts Receivable - Contractual Allowance,Contractual Allowances
+2950,3846,AFCA-Hospital Humana Sr,Patient Acct Receivable Net,Accounts Receivable - Contractual Allowance,Contractual Allowances
+2950,3844,AFCA-Hospital Commercial,Patient Acct Receivable Net,Accounts Receivable - Contractual Allowance,Contractual Allowances
+2950,3845,AFCA-Hospital Guarantor,Patient Acct Receivable Net,Accounts Receivable - Contractual Allowance,Contractual Allowances
+2950,3507,AFCA-HMO-PPO-Other IP MC,Patient Acct Receivable Net,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3135,5749,CONTR ALLOWANCE HOSPICE,ALLOWANCES,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3135,5747,ACCRUED CONTRACTUAL - EPIC,ALLOWANCES,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3135,8996,CONTRACTUAL ALLOWANCE 1235,ALLOWANCES,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3135,8897,CONTRACTUAL ALLOWANCE-ADDNL,ALLOWANCES,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3135,5727,ACCRUED REV CONTRACTUALS,PATIENT A-R,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3135,5750,CONTRACTUAL ALLOWANCE,ALLOWANCES,Accounts Receivable - Contractual Allowance,Contractual Allowances
+3135,9029,CONTRACTUAL ALLOWANCE,ALLOWANCES,Accounts Receivable - Contractual Allowance,Contractual Allowances
+1170,3802,Intercompany Patient Accounts Receivable Contractual Allowan,Spectrum Financials,Accounts Receivable - Contractual Allowance,Contractual Allowances
+2706,4045,Contributions-Donations,INDIRECT MARGIN,Other Expenses,Contributions
+2990,460,I-C Contribution,EOICOTHMISC,Other Expenses,Contributions
+3110,1504,CONTRIBUTIONS,E,Other Expenses,Contributions
+3136,637,CONTRIBUTIONS,EXPENSE,Other Expenses,Contributions
+3145,1151,Contributions,CONTRIBUTIONS AND SPONSORSHIPS,Other Expenses,Contributions
+3150,881,GIFTS,Not Specified,Other Expenses,Contributions
+3194,340,624506-O-M-Donations,,Other Expenses,Contributions
+3126,2478,DONATIONS,Not Specified,Other Expenses,Contributions
+2968,643,CONTRIBUTIONS,7060,Other Expenses,Contributions
+3198,590,GIFTS,Not Specified,Other Expenses,Contributions
+1246,12984,DONATIONS - IN KIND GIFTS,Other Operating Revenue,Other Operating Revenue,Contributions
+1829,91,SVCS-MCV FOUNDATION TRANSERS,DONATIONS,Other Operating Revenue,Contributions
+1911,5424,MEAL CONTRIBUTIONS,OTHER PATIENT REV,Other Operating Revenue,Contributions
+2724,1865,Contributions-General,OTHER,Other Operating Revenue,Contributions
+2724,1866,Contributions-Tribute Fund,OTHER,Other Operating Revenue,Contributions
+2724,1867,Contributions-Amish Outreach,OTHER,Other Operating Revenue,Contributions
+2724,1875,Contributions-Angel Auction,OTHER,Other Operating Revenue,Contributions
+2992,943,OTHER SPEC PURP DONATIONS,SPEC PURP DONATIONS,Other Operating Revenue,Contributions
+2995,6781,Contributions-Unrestrict Special,Foundation Contribut,Other Operating Revenue,Contributions
+2995,6784,Contributions-Perm Rest,Foundation Contribut,Other Operating Revenue,Contributions
+3118,1291,NON-CASH CONTRIBUTIONS REVENUE,REVENUE,Other Operating Revenue,Contributions
+3133,1525,810793-CAPITAL CONTRIBUTION REVENUE,OTH OP REV,Other Operating Revenue,Contributions
+3136,134,CONTRIBUTIONS,REVENUE,Other Operating Revenue,Contributions
+3157,20260,CONTRI GIFTS and LEGACIES,Not Specified,Other Operating Revenue,Contributions
+3157,20261,OTHER CONTRIBUTIONS,Not Specified,Other Operating Revenue,Contributions
+3200,579,OTH REV-DONATIONS,Not Specified,Other Operating Revenue,Contributions
+3220,1234,Unrestrict Contribution,Unrestricted Contribution,Other Operating Revenue,Contributions
+3126,2764,GRANT CONTRIBUTION REVENUE,Not Specified,Other Operating Revenue,Contributions
+3109,3590,DONATIONS GIFTS-IN-KIND,CONTRIBUTED REVENUE,Other Operating Revenue,Contributions
+2980,517,CONTRIBUTIONS TR,Contributions TR,Temporarily Restricted Net Assets,Contributions
+2980,3052,FED CAP CONTRIBUTION AUTHORZD,Contributions TR,Temporarily Restricted Net Assets,Contributions
+2982,1398,Donation-Mobile Mammo,DONATIONS,Temporarily Restricted Net Assets,Contributions
+3222,478,CAPITAL CONTRIBUTIONS,Not Specified,Temporarily Restricted Net Assets,Contributions
+2956,1080,Contribution Income for Capital Items - Foundation Related,Foundaton Contributions,Unrestricted Net Assets,Contributions
+2956,2796,Contributions Inc for Cap Items NON Fnd Related,Other Contributions and Grants,Unrestricted Net Assets,Contributions
+2956,6751,Contribution - restricted fund - Capital,Other Contributions and Grants,Unrestricted Net Assets,Contributions
+2956,8361,Contribution - restricted fund - Capital,Other Contributions and Grants,Unrestricted Net Assets,Contributions
+2980,507,CONTRIBUTIONS,Contributions,Unrestricted Net Assets,Contributions
+3150,796,CAP DONATION TO HOSPITAL,Not Specified,Unrestricted Net Assets,Contributions
+3150,833,CONTRIBUTIONS FRM HMA,Not Specified,Unrestricted Net Assets,Contributions
+3150,834,CONTRIBUTIONS TO HMA,Not Specified,Unrestricted Net Assets,Contributions
+2988,18467,Gifts Endowment,,Unrestricted Net Assets,Contributions
+1650,692,2003 INTEREST FUND,OTHER FUNDS,Cash and Cash Equivalents,Debt Agreements
+1650,700,INVEST-BEQUEST,OTHER FUNDS,Cash and Cash Equivalents,Debt Agreements
+1650,709,UNREAL GN-(LS)-SELF,OTHER FUNDS,Cash and Cash Equivalents,Debt Agreements
+1650,3724,2011 A EXPENSE FUND,OTHER FUNDS,Cash and Cash Equivalents,Debt Agreements
+1650,3725,2011 B EXPENSE FUND,OTHER FUNDS,Cash and Cash Equivalents,Debt Agreements
+1650,3726,2011 C EXPENSE FUND,OTHER FUNDS,Cash and Cash Equivalents,Debt Agreements
+1650,4018,UNREAL GAIN-(LOSS)-2006 BOND,OTHER FUNDS,Cash and Cash Equivalents,Debt Agreements
+3179,370,MINOR EQUIPMENT,,Depreciable Assets,Equipment
+3179,375,MINOR EQUIPMENT,,Depreciable Assets,Equipment
+3179,379,MINOR EQUIPMENT,,Depreciable Assets,Equipment
+3179,385,MINOR EQUIPMENT,,Depreciable Assets,Equipment
+3179,489,MINOR EQUIPMENT,,Depreciable Assets,Equipment
+3179,9792,MINOR EQUIPMENT,,Depreciable Assets,Equipment
+3179,9807,MINOR EQUIPMENT,,Depreciable Assets,Equipment
+3179,10020,MINOR EQUIPMENT,,Depreciable Assets,Equipment
+3200,331,FURNITURE AND EQUIPMENT,Not Specified,Depreciable Assets,Equipment
+1305,3112,CP-Equip Becker,EQUIPMENT,Property/Plant/Equipment,Equipment
+1650,3289,EQUIP-PATIENT RENTALS,EQUIPMENT,Property/Plant/Equipment,Equipment
+2962,571,MINOR EQUIPMENT,131000,Property/Plant/Equipment,Equipment
+2980,687,RENTAL ITEMS,Equipment,Property/Plant/Equipment,Equipment
+2992,23404,ADE GRANT MEDICAL INSTR-EQUIP,MEDICAL INSTR-EQUIP,Property/Plant/Equipment,Equipment
+2992,23405,TRAUMA GRANT CONTRA FURNITURE-EQUIPMENT,FURNITURE-EQUIPMENT,Property/Plant/Equipment,Equipment
+2992,23425,TRAUMA CENTER FURNITURE-EQUIPMENT,FURNITURE-EQUIPMENT,Property/Plant/Equipment,Equipment
+2992,23427,TRANSPORT TRAUMA GRANT EQUIPMENT,FURNITURE-EQUIPMENT,Property/Plant/Equipment,Equipment
+3157,19639,LEASED CAPITAL EQUIPMENT,Not Specified,Property/Plant/Equipment,Equipment
+3157,19654,A-D LEASED CAPITAL EQUIP,Not Specified,Property/Plant/Equipment,Equipment
+3179,399,MINOR EQ.-CAP. LEASE,1383,Property/Plant/Equipment,Equipment
+1157,375,Blue Cross Settlement Rec,Third Party Withholdings,Accounts Receivable - Third Party Settlements,Estimated Third Party Payor Settlements
+1178,13727,3rd Party Settlement-Third Party Settlements,,Accounts Receivable - Third Party Settlements,Estimated Third Party Payor Settlements
+2719,984,MEDICARE/MEDICAID PAYABLE RAC MEDICARE ACCRUAL,,Accounts Receivable - Third Party Settlements,Estimated Third Party Payor Settlements
+2951,8108,Estimated Third-Party Settlements - No Class,Assets,Accounts Receivable - Third Party Settlements,Estimated Third Party Payor Settlements
+3112,3355,ESTIMTED THIRD PARTY PAYOR RECEIVABLE,ESTIMATED THIRD PARTY PAYOR RECEIVABLE,Accounts Receivable - Third Party Settlements,Estimated Third Party Payor Settlements
+3169,72,EST O-P MEDICAID LIAB 2002,ASSETS,Accounts Receivable - Third Party Settlements,Estimated Third Party Payor Settlements
+3188,2355,MCARE BD DEBT YE SETTLMNT,ESTIMATED THIRD PARTY RECEIVABLE,Accounts Receivable - Third Party Settlements,Estimated Third Party Payor Settlements
+3188,2356,CHAMPUS YE SETTLEMENT,ESTIMATED THIRD PARTY RECEIVABLE,Accounts Receivable - Third Party Settlements,Estimated Third Party Payor Settlements
+1975,23705,3RD PARTY MEDICAID POTENTIALLY PREVENTAB,,Accounts Receivable - Third Party Settlements,Estimated Third Party Payor Settlements
+3214,4805,PIP-1990,BALSH,Accounts Receivable - Third Party Settlements,Estimated Third Party Payor Settlements
+3119,5105,OTHER THIRD PARTY SETTLEMENTS - I-P,2_DUEFROMM-M,Accounts Receivable - Third Party Settlements,Estimated Third Party Payor Settlements
+3105,6010,Ar Medicare Settlement,999 5DUE TO-,Accounts Receivable - Third Party Settlements,Estimated Third Party Payor Settlements
+2968,1305,MEDICARE COST REPORT RECEIVABLE,1310,Accounts Receivable - Third Party Settlements,Estimated Third Party Payor Settlements
+2980,906,RENT PROPERTY,Rent,Lease and Rental Income,Facilities - Rent
+2980,2085,RENT GENOA MEDICAL OFFICE,Rent,Lease and Rental Income,Facilities - Rent
+3196,1000,RENTAL CHHI GRND LEASE,Not Specified,Lease and Rental Income,Facilities - Rent
+2968,320,RENT HOSPITAL FACILITIES,6010,Lease and Rental Income,Facilities - Rent
+3230,32,BLDG RENT-INTERNAL,,Lease and Rental Income,Facilities - Rent
+2993,2464,RENT AECOM,RENT,Other Operating Revenue,Facilities - Rent
+3118,605,SUBLEASE BUILDING RENTAL REV,REVENUE,Other Operating Revenue,Facilities - Rent
+3157,20733,RENTAL OF OFFICE SPACE,Not Specified,Other Operating Revenue,Facilities - Rent
+3167,3043,Rental of Building,Revenue,Other Operating Revenue,Facilities - Rent
+1829,1247,CUR PORTION OF EST MED MALPRACTICE,,Other Current Liabilities,Funds Held for Self-Insurance (Current Portion)
+2982,837,Interest-Other Restricted,INTandDIVIDS,Interest,Interest and Dividend Income
+2982,838,Interest-Boyd Scholarship,INTandDIVIDS,Interest,Interest and Dividend Income
+2982,840,Interest-Dabney Scholarsp,INTandDIVIDS,Interest,Interest and Dividend Income
+2982,841,Interest-Kraikit Scholarsp,INTandDIVIDS,Interest,Interest and Dividend Income
+2982,842,Interest-Hester Scholarshp,INTandDIVIDS,Interest,Interest and Dividend Income
+2982,869,Interest-Gen Endowment,INTandDIVIDS,Interest,Interest and Dividend Income
+3179,2976,INTEREST INCOME,,Interest,Interest and Dividend Income
+3192,201,Interest Inc - Swaps,Interest,Interest,Interest and Dividend Income
+1192,4319,INTEREST INCOME- OPERATING,Dividends and Interest,Other Operating Revenue,Interest and Dividend Income
+2706,4242,Operating Investment-Interest Income,INDIRECT MARGIN,Other Operating Revenue,Interest and Dividend Income
+2724,1645,Loan Interest Income,OTHER,Other Operating Revenue,Interest and Dividend Income
+2993,3337,INTEREST INCOME,OTHER REVENUE,Other Operating Revenue,Interest and Dividend Income
+3104,91,Bond Interest Income 2009A,Other Operating Income,Other Operating Revenue,Interest and Dividend Income
+3118,606,INTEREST INCOME,REVENUE,Other Operating Revenue,Interest and Dividend Income
+3146,1386,PHO INTEREST,Revenue,Other Operating Revenue,Interest and Dividend Income
+3228,1922,INT INC INSUR CO.,Not Specified,Other Operating Revenue,Interest and Dividend Income
+1238,58,Inv Returns Suspense- System,Other receivables,Accounts Receivable - Other,Inventory
+3210,701,INVENTORY - MISC,Other current assets,Accounts Receivable - Other,Inventory
+3198,317,ITEM COST VARIANCE SUSPENSE,Not Specified,Other Current Assets,Inventory
+3105,7757,Periodic Fifo Resp Care I,999 7ASSETS,Other Current Assets,Inventory
+3105,15795,Periodic CORE1 RRMC,999 7ASSETS,Other Current Assets,Inventory
+3110,1113,OBSOLETE INVENTORY,E,Other Expenses,Inventory
+3118,695,EXPIRED INVENTORY,EXPENSE,Other Expenses,Inventory
+3119,817,PROPERTY TAX - INVENTORY,2_OTHER,Other Expenses,Inventory
+2717,4186,Inventory Maintenance,Other expenses,Other Expenses,Inventory
+1238,467,Item Cost Variance Suspense,Medical Supplies,Supplies,Inventory
+1284,5958,Inventory-Salvage,Medical Surgical Supplies,Supplies,Inventory
+2949,1351,Inventory Posting Default,7030 Supplies other,Supplies,Inventory
+2982,1011,Pharmacy Requisitions,MEDSUPPLDRUG,Supplies,Inventory
+3118,693,INVENTORY COUNT VARIANCES,EXPENSE,Supplies,Inventory
+3120,225,Inventory-Stores,Other Operating Expenses,Supplies,Inventory
+3133,1667,740216-PHARMACY INVENTORY ADJS,PHARMACY,Supplies,Inventory
+3145,1172,General Instrumentation,GENERAL INVENTORY COSTS,Supplies,Inventory
+3145,1173,Orthopedic Instrumentation,GENERAL INVENTORY COSTS,Supplies,Inventory
+3145,1174,Neurosurgery Instrumentation,GENERAL INVENTORY COSTS,Supplies,Inventory
+3146,1427,INVENTORY OVER-UNDERAGES,Expense,Supplies,Inventory
+3173,867,Inventory - Return Suspense,Supplies,Supplies,Inventory
+3173,868,Inventory - Inspection Hold Suspense,Supplies,Supplies,Inventory
+3184,1822,CARDIOLOGY INVENTORY-SUPPLIES,,Supplies,Inventory
+3113,70177,RIU PHARMACY -- INVENTORY VALUATION,Expenses,Supplies,Inventory
+3113,70247,RIU DSRIP CARE TRANS INVENTORY VAL ADJ,Expenses,Supplies,Inventory
+1191,4485,Inventory Obsolescence,Inventory-Purchase Order Adjustments,Supplies,Inventory
+3105,3408,Inventory Restock Charge,100 SUPPLIES,Supplies,Inventory
+1227,903,Adjust To Inventory,Medical Supplies,Supplies,Inventory
+3150,548,INV ADJ DOU,Not Specified,Supplies,Inventory
+1137,7973,Patient Service Supplies-General Inventory,,Supplies,Inventory
+3111,1524,INVENTORY CLEARING,SUPPLIES,Supplies - Chargeable Medical,Inventory
+1137,7972,Patient Service Supplies-Cath Lab Inventory,Patient Care Supplies,Supplies - Chargeable Medical,Inventory
+3171,657,Rent,Rent,Facilities - Rent,Lease and Rental Income
+3119,135,LEASE INCOME,2_LEASE EXPENSE,Facilities - Rent,Lease and Rental Income
+3126,3058,I/C NS BUILDING RENT,,Facilities - Rent,Lease and Rental Income
+2980,324,Rent,Rent,Facilities - Rent,Lease and Rental Income
+2980,41099,Rent,Rent,Facilities - Rent,Lease and Rental Income
+2980,41100,Rent,Rent,Facilities - Rent,Lease and Rental Income
+1157,1669,Advertising and Marketing,Other Direct Expenses,Other Expenses,Marketing
+1137,974,Advertising,Other Expenses,Other Expenses,Marketing
+1238,447,Employment Advertising,Other expenses,Other Expenses,Marketing
+1650,2050,PROMOTIONAL ITEMS,MARKETING ADVERTISING,Other Expenses,Marketing
+1650,2061,MKTG-DIRECT MAIL,MARKETING ADVERTISING,Other Expenses,Marketing
+1650,2065,MKTG-MARKET RESEARCH,MARKETING ADVERTISING,Other Expenses,Marketing
+1650,2076,MKTG-WEBSITE MAINT,MARKETING ADVERTISING,Other Expenses,Marketing
+1885,1006,Advertising and promotions,Misc operating expenses,Other Expenses,Marketing
+2706,3950,Production - Print,INDIRECT MARGIN,Other Expenses,Marketing
+2717,163,Advertising,Other expenses,Other Expenses,Marketing
+2724,3047,Promotional,ADVERTISING,Other Expenses,Marketing
+2724,3048,Advertising,ADVERTISING,Other Expenses,Marketing
+2724,3049,Advertising-Television,ADVERTISING,Other Expenses,Marketing
+2724,3050,Advertising-Comm Health Ed,ADVERTISING,Other Expenses,Marketing
+2724,3051,Advertising-Ault Health Min,ADVERTISING,Other Expenses,Marketing
+2724,3052,Advertising-Yellow Pages,ADVERTISING,Other Expenses,Marketing
+2724,3053,Advertising - Mkt,ADVERTISING,Other Expenses,Marketing
+2724,3054,Advertising-Web Page,ADVERTISING,Other Expenses,Marketing
+2724,3056,Advertising-Airport Signage,ADVERTISING,Other Expenses,Marketing
+2724,3057,Advertising-Billboard,ADVERTISING,Other Expenses,Marketing
+2724,3058,Advertising-Annual Report,ADVERTISING,Other Expenses,Marketing
+2724,3061,Advertising-Health Talks,ADVERTISING,Other Expenses,Marketing
+2724,3063,Logo Wear,ADVERTISING,Other Expenses,Marketing
+2837,687,EMPLOYEE ADVERTISING,Other Expense,Other Expenses,Marketing
+2962,1454,MARKETING,507200,Other Expenses,Marketing
+2962,1455,MARKETING-SPIRIT OF WOMEN,507200,Other Expenses,Marketing
+2962,1456,ADVERTISING,507200,Other Expenses,Marketing
+2988,270,Advertising,30 - Services,Other Expenses,Marketing
+2988,9372,Advertising and Marketing,Administrative Expense,Other Expenses,Marketing
+2988,9373,Advertising and Marketing,Administrative Expense,Other Expenses,Marketing
+2988,13613,Direct Mail,Other Expense,Other Expenses,Marketing
+2990,1236,Misc Promotional,EOOTHFUND,Other Expenses,Marketing
+2995,7592,Photography,Marketing,Other Expenses,Marketing
+3121,4637,Events Promotions,( LAWSON - IS - Operating Expenses - Other Supplies and Services ),Other Expenses,Marketing
+3122,960,MARKETING,MARKETING EXPENSE,Other Expenses,Marketing
+3122,961,SKC MARKETING,MARKETING EXPENSE,Other Expenses,Marketing
+3127,912,SandE-Marketing Retail,OTHR EXPENSE,Other Expenses,Marketing
+3142,67,Promotional Expense-Radio-TV,Purchased Services,Other Expenses,Marketing
+3184,1017,PROMOTION EXP,PL-Expenses,Other Expenses,Marketing
+3192,787,Market Research,,Other Expenses,Marketing
+2706,3949,Media - Web,INDIRECT MARGIN,Other Expenses - General and Admin,Marketing
+2706,4099,Health Promotion,INDIRECT MARGIN,Other Expenses - General and Admin,Marketing
+2706,4305,Market Research Exp,INDIRECT MARGIN,Other Expenses - General and Admin,Marketing
+2717,164,Other Advertising,Other expenses,Other Expenses - General and Admin,Marketing
+2717,173,Advertising Production,Other expenses,Other Expenses - General and Admin,Marketing
+2995,7505,External Mktg and Advtg-Outreach,Marketing,Other Expenses - General and Admin,Marketing
+2995,7513,External Mktg and Advtg,Marketing,Other Expenses - General and Admin,Marketing
+2995,7586,Promotional Items,Marketing,Other Expenses - General and Admin,Marketing
+2995,7593,Special Events,Marketing,Other Expenses - General and Admin,Marketing
+3125,1213,General and Administrative - Recruitment Advertising,Other,Other Expenses - General and Admin,Marketing
+1178,13249,Purchased Services-Advertising All Other,Expenses,Purchased Services,Marketing
+2992,51005,Social Work - Purchased Services - Advertising-PR,ADVERTISING-PR,Purchased Services,Marketing
+2992,65252,Admin Reserve-Purchased Services-Advertising-PR,,Purchased Services,Marketing
+3125,1248,Purchased Services - Advertising,Purchased Services,Purchased Services,Marketing
+3125,1249,Purchased Services - Marketing Personnel,Purchased Services,Purchased Services,Marketing
+3202,2865,P.S. ADVERTISING AND MARKETING,73300-PURCHASED SERVICES - OTHER,Purchased Services,Marketing
+1191,5383,Marketing Research,Other Purchased Services,Purchased Services,Marketing
+2997,1147,MARKETING MATERIALS,SUPPLIES,Supplies,Marketing
+3169,1422,A-V MEDIA SUPPLIES,EXPENSES,Supplies,Marketing
+2968,631,MARKETING SUPPLIES,7050,Supplies,Marketing
+1170,4955,Inventory Adjustments-Marketing Promotions and Relations,Spectrum Financials,Supplies,Marketing
+1747,14121,GRANT DEPOSITS AU MEDICAL CENTER,,Other Current Liabilities,Other Current Assets
+2036,2452,CMC 07-12 OID DISCOUNT,,Other Current Liabilities,Other Current Assets
+2973,6322,BOND PRIN PYMNT WELLS FARGO,CURRENT PORTION ASSETS LIMITED,Other Current Liabilities,Other Current Assets
+2980,993,DEPOSITS,Deposits,Other Current Liabilities,Other Current Assets
+3113,68944,RIU RYDELL SILBERSTEIN CLN,,Other Current Liabilities,Other Current Assets
+3113,1190,RIU REVOLVER INVESTORS,,Other Current Liabilities,Other Current Assets
+3113,68091,RIU SUMMER TEEN FOUNDATION,,Other Current Liabilities,Other Current Assets
+3113,13295,RIU L-T GE AERO KM DETECTOR,,Other Current Liabilities,Other Current Assets
+3113,69106,RIU EXCHANGE,,Other Current Liabilities,Other Current Assets
+3157,21072,CCC RECLASS TO CURRENT,Not Specified,Other Current Liabilities,Other Current Assets
+3163,580,DUES and SUBSCRIPTIONS,EOC,Benefits,Other Expenses
+3167,3417,EE Activities,Expense,Benefits,Other Expenses
+3157,20382,DUES,Not Specified,Benefits,Other Expenses
+3142,839,Dues and Memberships,Other Operating Expenses,Benefits,Other Expenses
+1238,298,Mileage,Other expenses,Benefits,Other Expenses
+1238,816,Recognition Expense,Other expenses,Benefits,Other Expenses
+1238,946,Seminars and Conference- Interco,Other expenses,Benefits,Other Expenses
+2955,2798,457B,Expenses,Benefits,Other Expenses
+1284,14355,Mileage,Other Operating Expenses,Benefits,Other Expenses
+2997,1137,EMPLOYEE CERTIFICATIONS,DUES and SUBSCRIPTIONS,Benefits,Other Expenses
+3125,2406,Fund Expenditures,Other,Benefits,Other Expenses
+2706,4348,Incentive Program Expense,ZZ OTHER,Benefits,Other Expenses
+3121,4559,Commitment to Caring,( LAWSON - IS - Operating Expenses - Other Supplies and Services ),Benefits,Other Expenses
+3121,4561,Epml Retirement Event,( LAWSON - IS - Operating Expenses - Other Supplies and Services ),Benefits,Other Expenses
+3121,4562,Epml Srvc Awards Event,( LAWSON - IS - Operating Expenses - Other Supplies and Services ),Benefits,Other Expenses
+1747,13872,FLOWERS AWARDS,NON MEDICAL SUPPLIES AND OTHER EXPENSE,Benefits,Other Expenses
+3104,4975,Plaques,Other Direct Expenses,Benefits,Other Expenses
+1747,852,PPG EMPLOYEE FUNCTIONS,Operating Expenses,Benefits,Other Expenses
+1747,13875,SCHOLARSHIPS,NON MEDICAL SUPPLIES AND OTHER EXPENSE,Benefits,Other Expenses
+3121,4571,Service Awards Events,( LAWSON - IS - Operating Expenses - Other Supplies and Services ),Benefits,Other Expenses
+2975,265,SPECIAL FUNCTIONS and RECOGNITION,OTH OPERATING EXP,Benefits,Other Expenses
+2837,709,TRAVEL - MILEAGE,Other Expense,Benefits,Other Expenses
+2837,712,CONTINUING EDUCATION,Other Expense,Benefits,Other Expenses
+2989,713,Allowance - Assoc Staff,Associate Staff,Benefits,Other Expenses
+2989,717,Househunting (incl W-2) - Assoc Med,Associate Staff,Benefits,Other Expenses
+2724,2205,Accreditation Fees,INTERNALED,Benefits,Other Expenses
+2992,64746,Operations Administration-Other Operating Expense-Bond Issuance Costs,,Benefits,Other Expenses
+2980,750,EDUCATION,Education - General,Benefits,Other Expenses
+2980,1725,EDUCATION,Education - General,Benefits,Other Expenses
+2982,1181,Education,OTHEREXPS,Benefits,Other Expenses
+2988,9374,General Business and Other Insurance,Administrative Expense,Benefits,Other Expenses
+2988,9544,Insurance - Health (Physician),Other Employee Expenses,Benefits,Other Expenses
+2988,9590,Insurance - Health (Midlevel),Other Employee Expenses,Benefits,Other Expenses
+2988,9594,Insurance - Other (Midlevel),Other Employee Expenses,Benefits,Other Expenses
+2988,13371,Recruiting,Travel,Benefits,Other Expenses
+2988,13506,Business Meals,Other Expense,Benefits,Other Expenses
+2988,13512,Seminar andTraining Registration,Other Expense,Benefits,Other Expenses
+2988,13668,Fee Waivers,Student Aid,Benefits,Other Expenses
+2988,13680,Student Aid 1,Student Aid,Benefits,Other Expenses
+2988,14950,Insurance (Physician),Other Employee Expenses,Benefits,Other Expenses
+2992,36748,COMMUNITY DEVELOPMEN DONOR RECOGNITION,AWARDS,Benefits,Other Expenses
+3121,1368,Education Assist Prog Taxable,IS - Operating Expenses - Other Supplies and Services,Benefits,Other Expenses
+3167,171,MD Dues Mbship,Expense,Benefits,Other Expenses
+1305,732,Education Other Expenses,EDUCATION,Benefits,Other Expenses
+2968,503,PPACA,7040,Benefits,Other Expenses
+2950,1657,Hospitalization Exp,Hospitalization,Benefits,Other Expenses
+3220,1373,Hospitalization Exp,Hospitalization,Benefits,Other Expenses
+3198,101,MISC EMPLOYEE EXPENSE,Not Specified,Benefits,Other Expenses
+1747,258,IT-DUESREGISTRATION,NON MEDICAL SUPPLIES AND OTHER EXPENSE,Benefits,Other Expenses
+2968,495,IBNR ADJUSTMENT,7040,Benefits,Other Expenses
+3104,2403,Continuing Education,Other Direct Expenses,Benefits,Other Expenses
+1747,259,DUES REGISTRATIONS,NON MEDICAL SUPPLIES AND OTHER EXPENSE,Benefits,Other Expenses
+3146,1501,STAFF EDUCATION-PROGRAMS,Expense,Benefits,Other Expenses
+2992,36721,STRATEGY-RES-STEWARD DONOR RECOGNITION,AWARDS,Benefits,Other Expenses
+2992,13918,NURSING ADMIN OTHER - MATCH,OTHER - MATCH,Benefits,Other Expenses
+3146,1240,PENSIONS,Expense,Benefits,Other Expenses
+2724,2202,Research,INTERNALED,Benefits,Other Expenses
+3121,4282,Resident Benefit Exp Refund,(( LAWSON - DO NOT USE )),Benefits,Other Expenses
+2962,1320,SCHOLARSHIPS,502000,Benefits,Other Expenses
+3167,196,RewardsRecognition,Expense,Benefits,Other Expenses
+3111,427,OUTSIDE TRAINING,OTHER EXPENSES,Benefits,Other Expenses
+3111,468,DUES AND SUBSCRIPTIONS,OTHER EXPENSES,Benefits,Other Expenses
+3127,14087,SandE-Employee Gifts,OTHR EXPENSE,Benefits,Other Expenses
+3127,14088,SandE-Reward and Recognition-Activities,OTHR EXPENSE,Benefits,Other Expenses
+3132,1701,Other Operating Expense Employee Training,Other Operating Expenses,Benefits,Other Expenses
+3132,2301,Taxes and Licenses Compensation Excise Tax,Other Operating Expenses,Benefits,Other Expenses
+3132,2449,Other Operating Expense Education Travel Expense,Other Operating Expenses,Benefits,Other Expenses
+3132,2869,Other Operating Expense Business Travel,Other Operating Expenses,Benefits,Other Expenses
+3136,229,MT. STATE REBATES,EXPENSE,Benefits,Other Expenses
+3136,247,PCORI FEES,EXPENSE,Benefits,Other Expenses
+1885,989,Books and subscriptions,Misc operating expenses,Benefits,Other Expenses
+2993,18635,CME ALLOWANCE,OTHER EXPENSE,Benefits,Other Expenses
+3159,2812,TRAINING EXPENSES,Other Expense,Benefits,Other Expenses
+3159,2845,TRAVEL HC AUTO MILEAGE REIMB,Other Expense,Benefits,Other Expenses
+3159,3474,TRAVEL:DOMESTIC OTHER,Other Expense,Benefits,Other Expenses
+3159,3476,CONTRA EXP:EDUCATION,Other Expense,Benefits,Other Expenses
+3179,2835,NON-EMP PHYS REC EXP,PHYSFEE,Benefits,Other Expenses
+1885,993,Patient education,Education and training,Benefits,Other Expenses
+3121,8654,Pharmacy Inhouse Trans - CD,(( LAWSON - DO NOT USE )),Benefits,Other Expenses
+3121,8655,Pharmacy Inhouse Trans - Other,(( LAWSON - DO NOT USE )),Benefits,Other Expenses
+3165,4083,Relocation Expenses,SUPPLIESOTH,Benefits,Other Expenses
+3165,4100,Dues and Subscriptions,SUPPLIESOTH,Benefits,Other Expenses
+3165,4103,Dues Gcha,SUPPLIESOTH,Benefits,Other Expenses
+3165,4104,Dues Oha and Aha,SUPPLIESOTH,Benefits,Other Expenses
+3165,4117,Mileage,SUPPLIESOTH,Benefits,Other Expenses
+1246,13362,RECRUITMENT LOAN REPAYMENT,Other Expenses,Benefits,Other Expenses
+1975,207,TUITION,Other (exp),Benefits,Other Expenses
+3167,3344,A D D,Expense,Benefits,Other Expenses
+3175,29,MILEAGE REIMBURSEMENT,NET INCOME,Benefits,Other Expenses
+3175,1906,GRANT EXPENSE PERFORMANCE RECOGNITION,NET INCOME,Benefits,Other Expenses
+3177,535,PHYSICIAN-OTHER,,Benefits,Other Expenses
+3177,596,PATIENT CARE MILEAGE,,Benefits,Other Expenses
+2962,1309,WORKERS COMP-OTHER EXP.,502000,Benefits,Other Expenses
+3184,966,AIR TRANSPORTATION EXP,PL-Expenses,Benefits,Other Expenses
+3184,967,GASOLINE EXP,PL-Expenses,Benefits,Other Expenses
+3184,974,NON ALLOW TRAVELandENT EXP,PL-Expenses,Benefits,Other Expenses
+3188,551,EDUCATION MEETING EXP,OTHER EXPENSES,Benefits,Other Expenses
+3188,552,EDUCATIONAL ENRICHMENT EXP,OTHER EXPENSES,Benefits,Other Expenses
+3188,554,TRAINING-DEVELOPMENT EXP,OTHER EXPENSES,Benefits,Other Expenses
+3188,558,TRAVEL and ENTERTAINMNT EXP,OTHER EXPENSES,Benefits,Other Expenses
+3194,300,621513-E-T-Convention,,Benefits,Other Expenses
+3194,346,624512-O-M-Loan Forgiveness,,Benefits,Other Expenses
+3167,3365,Fed UnemplTax,Expense,Benefits,Other Expenses
+2992,13008,AMERICORPS-GARDENCOR F.I.C.A.,F.I.C.A.,Benefits,Other Expenses
+2992,47980,AMERICORPS-GARDENCOR F.I.C.A.,F.I.C.A.,Benefits,Other Expenses
+2992,63803,Admissions and Financial Counseling-Expense Suspense-,,Benefits,Other Expenses
+2727,20171,Bus Travel-Sponsor Reimbursmnt,Other Expense,Benefits,Other Expenses
+2727,19533,Bus Meeting-Travel Exp,Other Expense,Benefits,Other Expenses
+2727,20986,Bus Tvl-Staff Local Distance,Other Expense,Benefits,Other Expenses
+2727,20987,Bus Tvl-Staff Long Distance,Other Expense,Benefits,Other Expenses
+2727,20163,Training_Development,Other Expense,Benefits,Other Expenses
+2727,20158,Education Loan Forgiveness,Other Expense,Benefits,Other Expenses
+2727,20159,Conventions,Other Expense,Benefits,Other Expenses
+2992,64586,CT Technology-Other Operating Expense-Continuing Education,CONTINUING EDUCATION EXPENSE,Benefits,Other Expenses
+2992,64329,Data Governance-Other Operating Expense-Continuing Education,CONTINUING EDUCATION EXPENSE,Benefits,Other Expenses
+3210,118,NOT COVER-CARV OUT CLAIM,Medical claims,Benefits,Other Expenses
+3204,470,SCHOLARSHIP,OPERATING EXPENSES,Benefits,Other Expenses
+3228,809,**NEEDS DEFINITION,Not Specified,Benefits,Other Expenses
+3214,4707,HONORARIUM EXPENSES,Purchased Supplies and Svcs,Benefits,Other Expenses
+3167,3330,TuitionReimbursement,Expense,Benefits,Other Expenses
+2992,63570,UAMS Contract - General-Expense Suspense-,,Benefits,Other Expenses
+3121,8511,EPA UNClassified-PTO Buy Out,(( LAWSON - DO NOT USE )),Benefits,Other Expenses
+1475,3116,Travel-Other,Other Expense,Benefits,Other Expenses
+1475,3119,Travel-Air,Other Expense,Benefits,Other Expenses
+3218,1676,KHN Conferences and Meetings,Other Exp,Benefits,Other Expenses
+3218,1678,Education and Certification,Other Exp,Benefits,Other Expenses
+3105,7530,Medical Education Fees,080 FEES,Benefits,Other Expenses
+3105,7531,Vehicle-Parking Tolls,080 FEES,Benefits,Other Expenses
+3105,3361,Speaker Fees-Honorariums,100 SUPPLIES,Benefits,Other Expenses
+1227,909,TravelEducationSeminar,Other Expenses,Benefits,Other Expenses
+1475,693,CME,Other Expense,Benefits,Other Expenses
+3230,247,RELOCATION EXPENSE,Other expense,Benefits,Other Expenses
+2949,1073,Conf Meeting Fees,7400 Other expenses,Benefits,Other Expenses
+2949,1065,EE Dues Member,7400 Other expenses,Benefits,Other Expenses
+3222,159,OTHER TRAVEL EXPENSES,Not Specified,Benefits,Other Expenses
+3222,585,OTHER TRAVEL EXPENSES,Not Specified,Benefits,Other Expenses
+3222,507,TRAVEL-OVERNIGHT MEALS,Not Specified,Benefits,Other Expenses
+1238,1877,Health Insurer Premium Fee,Other expenses,Benefits,Other Expenses
+3167,3353,Day Care Ssidy,Expense,Benefits,Other Expenses
+1177,319,Leadership developme,MISC OTHER EXPENSE,Benefits,Other Expenses
+2975,319,PHYSICIAN SITE VISITS,OTH OPERATING EXP,Benefits,Other Expenses
+1177,465,Provider CME,Misc Other Expense,Benefits,Other Expenses
+1975,355,RADIOLOGY EDUCATION FUND,Other (exp),Benefits,Other Expenses
+1305,735,Scholarships,EDUCATION,Benefits,Other Expenses
+1496,8359,CME,Other Expenses,Benefits,Other Expenses
+1496,5519,Employee Qtrly Event,Other Expenses,Benefits,Other Expenses
+1496,4648,General Emp Relocation,Other Expenses,Benefits,Other Expenses
+1496,4673,Mileage,Other Expenses,Benefits,Other Expenses
+1496,4724,Travel - Clerks,Other Expenses,Benefits,Other Expenses
+1496,4725,Travel - General,Other Expenses,Benefits,Other Expenses
+1496,4727,Travel - RNs,Other Expenses,Benefits,Other Expenses
+1496,4728,Travel - Techs,Other Expenses,Benefits,Other Expenses
+1496,4731,Travel - Nurse Pract,Other Expenses,Benefits,Other Expenses
+1496,6000,WOW Mini Grants,Other Expenses,Benefits,Other Expenses
+1496,4624,Education - Clerks,Other Expenses,Benefits,Other Expenses
+2992,53865,ACF Community Events-Dues and Subscriptions-Dues and Subscriptions,,Benefits,Other Expenses
+2992,64373,ACF Events and Volunteers-Other Operating Expense-Continuing Education,CONTINUING EDUCATION EXPENSE,Benefits,Other Expenses
+2992,53070,Adolescent Clinic-Other Operating Expense-Continuing Education,CONTINUING EDUCATION EXPENSE,Benefits,Other Expenses
+2992,64177,Ambulatory Surgery-Other Operating Expense-Continuing Education,CONTINUING EDUCATION EXPENSE,Benefits,Other Expenses
+2992,64538,Community Clinical Programs-Other Operating Expense-Continuing Education,CONTINUING EDUCATION EXPENSE,Benefits,Other Expenses
+2992,49899,Emergency Department-Other Operating Expense-Continuing Education,CONTINUING EDUCATION EXPENSE,Benefits,Other Expenses
+2992,64291,Groundskeeping-Other Operating Expense-Continuing Education,CONTINUING EDUCATION EXPENSE,Benefits,Other Expenses
+2992,50396,Heart Station - Little Rock-Other Operating Expense-Continuing Education,CONTINUING EDUCATION EXPENSE,Benefits,Other Expenses
+2992,53696,Human Resources-Other Operating Expense-Continuing Education,CONTINUING EDUCATION EXPENSE,Benefits,Other Expenses
+2992,64534,Lab - General-Other Operating Expense-Continuing Education,CONTINUING EDUCATION EXPENSE,Benefits,Other Expenses
+2992,64217,Maintenance-Other Operating Expense-Continuing Education,CONTINUING EDUCATION EXPENSE,Benefits,Other Expenses
+2719,1279,MEDICAL EDUCATION,Other (Operating),Benefits,Other Expenses
+2992,64167,MRI Technology-Other Operating Expense-Continuing Education,CONTINUING EDUCATION EXPENSE,Benefits,Other Expenses
+3142,850,Physician Education Expense,Other Operating Expenses,Benefits,Other Expenses
+3146,4017,Professional Development,General Operating,Benefits,Other Expenses
+2992,53075,Radiology Administration - Other Operating Expense - Continuing Education,CONTINUING EDUCATION EXPENSE,Benefits,Other Expenses
+2992,64584,Speech Pathology-Other Operating Expense-Continuing Education,CONTINUING EDUCATION EXPENSE,Benefits,Other Expenses
+2992,64727,Sports Medicine-Other Operating Expense-Continuing Education,CONTINUING EDUCATION EXPENSE,Benefits,Other Expenses
+2992,64288,UAMS Contract - General-Other Operating Expense-Continuing Education,CONTINUING EDUCATION EXPENSE,Benefits,Other Expenses
+2992,63272,Volunteers-Other Operating Expense-Continuing Education,CONTINUING EDUCATION EXPENSE,Benefits,Other Expenses
+2724,2145,WC-3rd Pty Admin,WORKERSCOMP,Benefits,Other Expenses
+3135,6869,SERVICE AWARDS WEEK,OTHER EXPENSE,Benefits,Other Expenses
+3135,6872,WELLNESS PROGRAM,OTHER EXPENSE,Benefits,Other Expenses
+3135,6910,TRAVEL EDUCATION,OTHER EXPENSE,Benefits,Other Expenses
+3135,6911,TRAVEL EDUCATION OFFSET,OTHER EXPENSE,Benefits,Other Expenses
+3135,8888,TRAVEL EDUCATION-COVID-19,OTHER EXPENSE,Benefits,Other Expenses
+3135,6870,EMPLOYEE PICNIC-FAMILY FUN DAY,OTHER EXPENSE,Benefits,Other Expenses
+3135,6871,CHRISTMAS DINNER-GIFTS,OTHER EXPENSE,Benefits,Other Expenses
+1284,951,Travel Meetings Conferences,Other Operating Expenses,Benefits,Other Expenses - Employee Reimbursement
+2837,711,CONFERENCE REGISTRATION,Other Expense,Benefits,Other Expenses - Employee Reimbursement
+2980,208,TRAVEL-EDUCATION,Travel - Education,Benefits,Other Expenses - Employee Reimbursement
+2980,209,TRAVEL-BUSINESS,Travel - Business,Benefits,Other Expenses - Employee Reimbursement
+2980,733,TRAVEL-MILEAGE,Travel - Education,Benefits,Other Expenses - Employee Reimbursement
+2980,734,TRAVEL-UNAPPROVED EXPENSES,Travel - Business,Benefits,Other Expenses - Employee Reimbursement
+2980,950,SEMINARS and WORKSHOPS,Travel - Education,Benefits,Other Expenses - Employee Reimbursement
+2980,1200,MILEAGE GAS REIMBURSEMENT,Travel - Education,Benefits,Other Expenses - Employee Reimbursement
+2980,1721,TRAVEL-AIRFARE-OT,Travel - Education,Benefits,Other Expenses - Employee Reimbursement
+2980,1722,TRAVEL-ACCOMODATIONS,Travel - Education,Benefits,Other Expenses - Employee Reimbursement
+2980,1723,TRAVEL-SVC MILEAGE,Travel - Business,Benefits,Other Expenses - Employee Reimbursement
+2980,1868,TRAVEL EXPENSE,Travel - Business,Benefits,Other Expenses - Employee Reimbursement
+2980,2257,BUS MILEAGE GAS REIMBURSEMENT,Travel - Education,Benefits,Other Expenses - Employee Reimbursement
+2980,12410,RELOCATION EXPENSE,Other,Benefits,Other Expenses - Employee Reimbursement
+2988,13363,A-21 Travel,Travel,Benefits,Other Expenses - Employee Reimbursement
+2988,13373,Travel,Travel,Benefits,Other Expenses - Employee Reimbursement
+2988,13377,Alumni Activity Travel,Travel,Benefits,Other Expenses - Employee Reimbursement
+2988,13513,Lodging,Travel,Benefits,Other Expenses - Employee Reimbursement
+3112,2843,EDUCATION OTHER,TRAVEL and EDUCATION,Benefits,Other Expenses - Employee Reimbursement
+3110,1066,TRAVEL AND EDUCATION,E,Benefits,Other Expenses - Employee Reimbursement
+3127,3250,SandE-Travel and Conference,OTHR EXPENSE,Benefits,Other Expenses - Employee Reimbursement
+3127,3251,SandE-Travel and Conference-Ops,OTHR EXPENSE,Benefits,Other Expenses - Employee Reimbursement
+3132,1762,Travel Business Travel,Other Operating Expenses,Benefits,Other Expenses - Employee Reimbursement
+3132,1763,Travel Education Travel Expense,Other Operating Expenses,Benefits,Other Expenses - Employee Reimbursement
+3132,1765,Education Travel Business Travel,Other Operating Expenses,Benefits,Other Expenses - Employee Reimbursement
+3132,1766,Education Travel Education Travel Expense,Other Operating Expenses,Benefits,Other Expenses - Employee Reimbursement
+3132,2518,Business Travel,,Benefits,Other Expenses - Employee Reimbursement
+3132,2519,Education Travel Expense,,Benefits,Other Expenses - Employee Reimbursement
+3132,2964,Travel Education Travel Expense Due from Scarpellino fund,Other Operating Expenses,Benefits,Other Expenses - Employee Reimbursement
+3154,186,ED AND TRAVEL CENTRALIZED,EDUCATION AND TRAVEL,Benefits,Other Expenses - Employee Reimbursement
+3154,187,EDUCATION AND TRAVEL,EDUCATION AND TRAVEL,Benefits,Other Expenses - Employee Reimbursement
+3175,28,(IA)TRAVEL AND MEETINGS,NET INCOME,Benefits,Other Expenses - Employee Reimbursement
+3177,595,BUSINESS TRAVEL,,Benefits,Other Expenses - Employee Reimbursement
+3192,179,Business Travel and Meals,Outside training travel and education,Benefits,Other Expenses - Employee Reimbursement
+3194,290,621502-Education and Travel,,Benefits,Other Expenses - Employee Reimbursement
+3194,297,621509-E-T-Travel,,Benefits,Other Expenses - Employee Reimbursement
+3214,1906,MOVING STORAGE and ARCHIVES,Compensation,Benefits,Other Expenses - Employee Reimbursement
+3210,78,EMPLOYEE PARKING,Benefits,Benefits,Other Expenses - Employee Reimbursement
+3204,514,SEMINARS - TRAVEL,OPERATING EXPENSES,Benefits,Other Expenses - Employee Reimbursement
+3228,886,TRAVEL and EDUCATION EXPENSE,Not Specified,Benefits,Other Expenses - Employee Reimbursement
+3216,53,TRAVEL,Not Specified,Benefits,Other Expenses - Employee Reimbursement
+1191,3494,Meals - Alcohol,Travel Registration,Benefits,Other Expenses - Employee Reimbursement
+1191,3488,Travel Expense,Travel Registration,Benefits,Other Expenses - Employee Reimbursement
+1191,3486,Registrations,Travel Registration,Benefits,Other Expenses - Employee Reimbursement
+1191,3490,Mileage - Local,Travel Registration,Benefits,Other Expenses - Employee Reimbursement
+1191,3492,Meals Expense,Travel Registration,Benefits,Other Expenses - Employee Reimbursement
+1170,4929,Medical Supplies-Training and Seminars,Spectrum Financials,Benefits,Other Expenses - Employee Reimbursement
+3105,7418,Employee Moving Exp Reimb,060 LABOR,Benefits,Other Expenses - Employee Reimbursement
+3222,53,TRAVEL-TRANSPORTATION,Not Specified,Benefits,Other Expenses - Employee Reimbursement
+3122,1013,MANUFACTURER TRAINING,PROFESSIONAL MEETINGS,Benefits,Other Expenses - Employee Reimbursement
+3112,532,MEMBER EDUCATION,TRAVEL and EDUCATION,Benefits,Other Expenses - Employee Reimbursement
+1150,12374,SCHOLARSHIP EXPENSE,TRAVEL AND EDUCATION,Benefits,Other Expenses - Employee Reimbursement
+3112,4869,STAFF SEMINAR CONFERENCES,TRAVEL and EDUCATION,Benefits,Other Expenses - Employee Reimbursement
+3119,212,MEDICAL STAFF EDUCATION,2_TRAVEL AND EDUCATION,Benefits,Other Expenses - Employee Reimbursement
+2992,64567,Pharmacy-Travel and Education-Conference Registration,,Benefits,Other Expenses - Employee Reimbursement
+1150,13289,EDUCATION,TRAVEL and EDUCATION,Benefits,Other Expenses - Employee Reimbursement
+1150,13299,EDUCATION,TRAVEL and EDUCATION,Benefits,Other Expenses - Employee Reimbursement
+1150,13303,EDUCATION,TRAVEL and EDUCATION,Benefits,Other Expenses - Employee Reimbursement
+1150,13319,EDUCATION,TRAVEL and EDUCATION,Benefits,Other Expenses - Employee Reimbursement
+3135,9138,TRAVEL EDUCATION-SUB 5999,OTHER EXPENSE,Benefits,Other Expenses - Employee Reimbursement
+1747,13389,FUNDRAISING REVENUE,OTHER OPERATING REVENUE,Contributions,Other Operating Revenue
+1747,13886,CONTRIBUTION - AUMC,OTHER OPERATING REVENUE,Contributions,Other Operating Revenue
+1911,5508,FOUNDATION-CONTRIBUTION,OTHER REVENUE,Contributions,Other Operating Revenue
+2706,4129,Special Event Pledges-Unrestrict,INDIRECT MARGIN,Contributions,Other Operating Revenue
+2719,362,CONTR INC-UNRESTRICTED,Other (Operating),Contributions,Other Operating Revenue
+2837,406,DONATIONS,Other Operating Revenue,Contributions,Other Operating Revenue
+2837,408,DONATIONS - IN KIND,Other Operating Revenue,Contributions,Other Operating Revenue
+2837,415,DONATIONS (PR),Other Operating Revenue,Contributions,Other Operating Revenue
+2955,2574,CONTRIB INCOME RESTRICTED,Revenue,Contributions,Other Operating Revenue
+2982,864,Contrib from Foundation,OTHEROPREV,Contributions,Other Operating Revenue
+2992,49169,ACN OUTPATIENT ADMIN SPF RELEASE DONATION,SPF RELEASE DONATION OFFSET,Contributions,Other Operating Revenue
+2992,49170,ACN GPC - LOWELL SPF RELEASE DONATION,SPF RELEASE DONATION OFFSET,Contributions,Other Operating Revenue
+2992,49172,ACN EMPLOYEE BENEFITS SPF RELEASE DONATION,SPF RELEASE DONATION OFFSET,Contributions,Other Operating Revenue
+2992,49182,ACN INFORMATION SYSTEMS SPF RELEASE DONATION,SPF RELEASE DONATION OFFSET,Contributions,Other Operating Revenue
+2992,49222,ACN VPS - OPERATIONS SPF RELEASE DONATION,SPF RELEASE DONATION OFFSET,Contributions,Other Operating Revenue
+2992,49230,SURGERY ADMINISTRATI SPF RELEASE DONATION,SPF RELEASE DONATION OFFSET,Contributions,Other Operating Revenue
+2992,49231,MEDICAL STAFF SUPPOR SPF RELEASE DONATION,SPF RELEASE DONATION OFFSET,Contributions,Other Operating Revenue
+2992,49260,SPORTS MEDICINE SPF RELEASE DONATION,SPF RELEASE DONATION OFFSET,Contributions,Other Operating Revenue
+2992,49261,PROCESS IMPROVEMENT SPF RELEASE DONATION,SPF RELEASE DONATION OFFSET,Contributions,Other Operating Revenue
+2992,49267,CLINIC 5 SPF RELEASE DONATION,SPF RELEASE DONATION OFFSET,Contributions,Other Operating Revenue
+2992,52012,Operating Revenue-Contributions Released-Contributions Released,TEMP REST RELEASE FM REST REV,Contributions,Other Operating Revenue
+2992,53074,Special Events-Auxiliary Revenue-Community Scholarship,COMMUNITY SCHOLARSHIP,Contributions,Other Operating Revenue
+3112,546,DONATIONS,OTHER OPERATING REVENUE,Contributions,Other Operating Revenue
+3112,547,DONATIONS CUMMINGS,OTHER OPERATING REVENUE,Contributions,Other Operating Revenue
+3112,2855,DONATIONS MCCANN,OTHER OPERATING REVENUE,Contributions,Other Operating Revenue
+3118,559,CONTRIBUTIONS REVENUE,REVENUE,Contributions,Other Operating Revenue
+3118,616,CONTRIBUTIONS REVENUE,REVENUE,Contributions,Other Operating Revenue
+3127,6373,OOPREV-Contrib-Special Events,OTHROPERREV,Contributions,Other Operating Revenue
+3127,6376,OOPREV-Contrib-Employees,OTHROPERREV,Contributions,Other Operating Revenue
+3127,6377,OOPREV-Contrib-Auxillary,OTHROPERREV,Contributions,Other Operating Revenue
+3125,2891,Other Revenue - Contribution Revenue,Other Revenue,Contributions,Other Operating Revenue
+3228,1969,LOVE LIGHTS,Not Specified,Contributions,Other Operating Revenue
+1191,6056,Contriubtions-General,Other - Revenue,Contributions,Other Operating Revenue
+3126,844,Sustainer Event Revenue,Program Revenue,Contributions,Other Operating Revenue
+3105,4334,Contr Unrestricted Ic,050 OTH REV,Contributions,Other Operating Revenue
+3105,4339,Cntrbutn Restd For Operat,050 OTH REV,Contributions,Other Operating Revenue
+3105,4331,Other Contribution,050 OTH REV,Contributions,Other Operating Revenue
+3133,2107,810795-GIFT REVENUE- RELEASE FROM RESTRICTION,OTH OP REV,Contributions,Other Operating Revenue
+3135,9170,Revenue: Contributions - Unrestricted,OTHER REVENUE,Contributions,Other Operating Revenue
+3135,9171,Revenue: Contributions - Unrestricted: Disbursement-Life Ins,OTHER REVENUE,Contributions,Other Operating Revenue
+3135,9173,Revenue: Contributions - Temp Restricted Income,OTHER REVENUE,Contributions,Other Operating Revenue
+1496,5861,Unrestricted Donations,Other Operating Revenue,Contributions,Other Operating Revenue
+1150,15902,INVESTMENT INCOME FCV,OTHER NON OPERATING REVENUE EXT,Other Nonoperating Rev (Exp),Other Operating Revenue
+1284,4358,Not Specified,,Other Nonoperating Rev (Exp),Other Operating Revenue
+1747,760,MISCELLANEOUS INCOME,Revenue,Other Nonoperating Rev (Exp),Other Operating Revenue
+2036,320,INT INC OPERATING,OTHER REVENUE,Other Nonoperating Rev (Exp),Other Operating Revenue
+2036,325,DONATIONS CHF,OTHER REVENUE,Other Nonoperating Rev (Exp),Other Operating Revenue
+2036,334,DONATIONS DUKE ENDOW,OTHER REVENUE,Other Nonoperating Rev (Exp),Other Operating Revenue
+2036,335,DONATIONS OTHER,OTHER REVENUE,Other Nonoperating Rev (Exp),Other Operating Revenue
+2036,337,PERMANENTLY RESTRICTED INCOME,OTHER REVENUE,Other Nonoperating Rev (Exp),Other Operating Revenue
+2036,2171,INT INC ACCTS REC-SURGI,OTHER REVENUE,Other Nonoperating Rev (Exp),Other Operating Revenue
+2977,2296,MINORITY INTEREST,TOTAL OTHER REVENUE,Other Nonoperating Rev (Exp),Other Operating Revenue
+2977,2297,OTHER NONPATIENT REVENUE,TOTAL OTHER REVENUE,Other Nonoperating Rev (Exp),Other Operating Revenue
+2982,825,Special Event-Revenue,SPECIALEVNTS,Other Nonoperating Rev (Exp),Other Operating Revenue
+2992,47260,ACNW OTHER NON-OPER REV. SPF RELEASE DONATION,SPF RELEASE DONATION OFFSET,Other Nonoperating Rev (Exp),Other Operating Revenue
+2992,49725,Special Events-Auxiliary Revenue-Patron Table Sales,SALE OF INVESTMENTS,Other Nonoperating Rev (Exp),Other Operating Revenue
+2992,52992,Holiday Cards-Auxiliary Revenue-Underwriting,CHC UNDERWRITING INCOME,Other Nonoperating Rev (Exp),Other Operating Revenue
+2992,55094,SAF - Rec Borsheim Jul13 (inactive)-Supplemental ACH Funds (SAF) Revenue-Upper,UNREST SAF FUNDS,Other Nonoperating Rev (Exp),Other Operating Revenue
+2992,63179,Other Non-Operating Revenue-Other Operating Revenue-Other Operating Income,,Other Nonoperating Rev (Exp),Other Operating Revenue
+2992,65010,Operations Administration-Other Operating Revenue-Miscellaneous Income,,Other Nonoperating Rev (Exp),Other Operating Revenue
+2993,2565,TRANSFER TO AFFILIATE,TRANSFER TO AFFILIATE,Other Nonoperating Rev (Exp),Other Operating Revenue
+2997,1849,DCH HELP AND HOPE FUNDING,OTHER REVENUE,Other Nonoperating Rev (Exp),Other Operating Revenue
+3110,1398,TIDELANDS REVENUE,R,Other Nonoperating Rev (Exp),Other Operating Revenue
+3110,1399,AMEDISYS REVENUE,R,Other Nonoperating Rev (Exp),Other Operating Revenue
+3110,1877,GTC HEALTHSOUTH REVENUES,R,Other Nonoperating Rev (Exp),Other Operating Revenue
+3118,810,PARTNERSHIP INCOME,REVENUE,Other Nonoperating Rev (Exp),Other Operating Revenue
+3133,1769,810755-GIFT REVENUE,OTH NET INC,Other Nonoperating Rev (Exp),Other Operating Revenue
+3136,158,DR WESLEY,REVENUE,Other Nonoperating Rev (Exp),Other Operating Revenue
+3136,162,OTHER,REVENUE,Other Nonoperating Rev (Exp),Other Operating Revenue
+3136,198,JOINT VENTURE,REVENUE,Other Nonoperating Rev (Exp),Other Operating Revenue
+3142,658,W and C Education Center Sales,Other Operating Revenue,Other Nonoperating Rev (Exp),Other Operating Revenue
+3146,1317,UNREST MGMT FEES,Revenue,Other Nonoperating Rev (Exp),Other Operating Revenue
+3146,1322,UNREST UNREALIZD G-L,Revenue,Other Nonoperating Rev (Exp),Other Operating Revenue
+3150,940,GOLF CRAWFORD-FLEMING,Not Specified,Other Nonoperating Rev (Exp),Other Operating Revenue
+3157,20290,PHYSICIAN BILLING REVENUE,Not Specified,Other Nonoperating Rev (Exp),Other Operating Revenue
+3165,5337,Community Nursing and Parkfit Revenue,,Other Nonoperating Rev (Exp),Other Operating Revenue
+3165,5343,Transportation Program Income,,Other Nonoperating Rev (Exp),Other Operating Revenue
+3165,5421,Trf In Nutrition,,Other Nonoperating Rev (Exp),Other Operating Revenue
+3192,14,Trans from Res Fnds-Cap,Other Operating Rev - Trans from Restr Funds CAP,Other Nonoperating Rev (Exp),Other Operating Revenue
+3214,5573,PP RELEASED TO UNREST,Not Specified,Other Nonoperating Rev (Exp),Other Operating Revenue
+2052,324,BABS Interest Subsidy Income,Non-Patient Revenue,Other Nonoperating Rev (Exp),Other Operating Revenue
+2052,320,Other Rev Dept 9010,Non-Patient Revenue,Other Nonoperating Rev (Exp),Other Operating Revenue
+2052,323,Other Rev Dept 9062,Non-Patient Revenue,Other Nonoperating Rev (Exp),Other Operating Revenue
+2052,327,Other Rev Dept 9030,Non-Patient Revenue,Other Nonoperating Rev (Exp),Other Operating Revenue
+3113,63289,RIU POOL REVENUE - POOL REVENUE,,Other Nonoperating Rev (Exp),Other Operating Revenue
+2980,2241,CURRENT DC PENSION LIABILITY,Current Pension Liability,Accrued Employee Compensation and Benefits,Pension and Other Employee Benefit Liabilities - LT
+3146,4786,ASC715 PENSION AOCI FYE CHI,Liability,Accrued Employee Compensation and Benefits,Pension and Other Employee Benefit Liabilities - LT
+3196,723,PENSION LIAB,Not Specified,Accrued Employee Compensation and Benefits,Pension and Other Employee Benefit Liabilities - LT
+3196,724,457F LIABILITY,Not Specified,Accrued Employee Compensation and Benefits,Pension and Other Employee Benefit Liabilities - LT
+3121,2746,Net Pension Liability,(( LAWSON - DO NOT USE )),Accrued Employee Compensation and Benefits,Pension and Other Employee Benefit Liabilities - LT
+3110,604,REST FB-SMITH MEDICAL CLINIC,L,Other Current Liabilities,Permantly Restricted Net Assets
+3110,606,REST FB - CAR SEAT,L,Other Current Liabilities,Permantly Restricted Net Assets
+3110,616,REST FB - NURSING SCHOLARSHIP,L,Other Current Liabilities,Permantly Restricted Net Assets
+3218,3118,Gift Shop Fund,NO,Other Current Liabilities,Permantly Restricted Net Assets
+3105,27888,RWRH Oncology Education Increase,999 3RESTFD,Other Current Liabilities,Permantly Restricted Net Assets
+3222,84,ACCCRUED LIABILITY-PREPAID,Not Specified,Accrued Liabilities (Current),Prepaid Expense
+3222,505,ACCCRUED LIABILITY-PREPAID,Not Specified,Accrued Liabilities (Current),Prepaid Expense
+3122,603,CONTRACT PROF FEES NON PFS,PROFESSIONAL,Other Operating Revenue,Professional Fees
+3157,20274,MEDICAL TRANSCRIPTS FEES,Not Specified,Other Operating Revenue,Professional Fees
+3194,168,483003-OR-OHSU Support,,Other Operating Revenue,Professional Fees
+3194,169,483004-OR-OHSU-Physician Recruit,,Other Operating Revenue,Professional Fees
+3210,1639,Other Sources,Professional fees - BCM,Other Operating Revenue,Professional Fees
+1177,242,Architect Fees,PROFESSIONAL FEES,Purchased Services,Professional Fees
+1177,404,AuditingAccounting,PROFESSIONAL FEES,Purchased Services,Professional Fees
+1157,1515,Registry Nursing Personnel,Professional Fees,Purchased Services,Professional Fees
+1178,14122,Professional Fees-Professional IT Services-Expense Reimb,Expenses,Purchased Services,Professional Fees
+1284,687,Assessment OHCA,Professional Fees,Purchased Services,Professional Fees
+1284,688,Consulting Fees,Professional Fees,Purchased Services,Professional Fees
+1284,697,Management Fees,Professional Fees,Purchased Services,Professional Fees
+1284,851,System Support Fee,Professional Fees,Purchased Services,Professional Fees
+1284,1762,Admin Fees,Professional Fees,Purchased Services,Professional Fees
+1284,14449,Administration Fees,Professional Fees,Purchased Services,Professional Fees
+1284,14460,Fitscript,Professional Fees,Purchased Services,Professional Fees
+1975,269,HEALTHCARE LAW CONSULTATION,Professional fees,Purchased Services,Professional Fees
+2950,1382,LSU Incidental Resident Expense,Prog Director Admin-Physician Serv,Purchased Services,Professional Fees
+2950,1444,LSU Uncomp Care,Prog Director Admin-Physician Serv,Purchased Services,Professional Fees
+2950,1469,LSU LCP Grant,Prog Director Admin-Physician Serv,Purchased Services,Professional Fees
+2973,179,HDX FEES,SUPPLIES AND SERVICES,Purchased Services,Professional Fees
+2990,1721,Legal-Self Insurance,EOPROFEE,Purchased Services,Professional Fees
+2990,5950,Claims Paid - Specialty-Blue Medicare Advantage,ECONMEDSERV,Purchased Services,Professional Fees
+2990,5974,IBNR - Specialty-Blue Medicare Advantage,ECONMEDSERV,Purchased Services,Professional Fees
+2990,5986,IBNR - Hospital-Blue Medicare Advantage,ECONMEDSERV,Purchased Services,Professional Fees
+2990,5992,Sub-Cap Exp - Specialty-Blue Medicare Advantage,ECONMEDSERV,Purchased Services,Professional Fees
+2992,12728,PFIZER SILDENAFIL IV PATIENT CARE SUPPORT,PATIENT CARE SUPPORT,Purchased Services,Professional Fees
+2992,66012,Patient Care Support-Patient Care Support,USDAG,Purchased Services,Professional Fees
+2993,17206,PURCHASED SERVICES PHYSICIANS,PROF SERVICES - MEDICAL,Purchased Services,Professional Fees
+2995,7515,Other Professional Fees I-C,Professional Fees,Purchased Services,Professional Fees
+2995,7516,Other Professional Fees UTSW,Professional Fees,Purchased Services,Professional Fees
+2995,9402,Other Professional Fees-TTRAC,Professional Fees,Purchased Services,Professional Fees
+3109,1458,CONSULTATION FEES,PROF. FEES-NON PHYSICIAN,Purchased Services,Professional Fees
+3127,3421,PROFEES-Contract Radiologists-Collections,PROF FEES,Purchased Services,Professional Fees
+3142,895,Recruiter Fees,Professional Fees,Purchased Services,Professional Fees
+3146,2587,Phys Comp Research,Affiliated Physician Groups,Purchased Services,Professional Fees
+3146,2589,Phys Comp Other,Affiliated Physician Groups,Purchased Services,Professional Fees
+3150,483,PROF FEES-MEDICAL,Not Specified,Purchased Services,Professional Fees
+3150,486,PROF FEES-EA PROGRAM,Not Specified,Purchased Services,Professional Fees
+3150,487,PROF FEES-RNFAS,Not Specified,Purchased Services,Professional Fees
+3163,572,OTHER PROF FEES,EOC,Purchased Services,Professional Fees
+3165,2831,SWG - Quality Committee,PURCHSERVOTH,Purchased Services,Professional Fees
+3171,3380,Other Services-MWH,Other Professional Svcs,Purchased Services,Professional Fees
+3173,884,Medical - Fellows and residents,Medical and Clinical Fees,Purchased Services,Professional Fees
+3173,889,Settlement Fees,Other Professional fees,Purchased Services,Professional Fees
+3173,892,Food services,Other Professional fees,Purchased Services,Professional Fees
+3173,893,Clinical nutiriton services,Other Professional fees,Purchased Services,Professional Fees
+3173,894,Other professional fees,Other Professional fees,Purchased Services,Professional Fees
+3175,4692,BUDGET REDUCTIONS EXPENSE - PROF FEE,NET INCOME,Purchased Services,Professional Fees
+3175,4721,SHARED SVC ALLOC - PROF FEE - PARK RIDGE HOUSING,NET INCOME,Purchased Services,Professional Fees
+3175,4727,SHARED SVC ALLOC - PROF FEE - WORKERS COMP,NET INCOME,Purchased Services,Professional Fees
+3175,7039,HOSPITALIST SUPPORT,NET INCOME,Purchased Services,Professional Fees
+3188,2390,FEES - MANAGEMENT,PROFESSIONAL FEES,Purchased Services,Professional Fees
+3188,2392,FEES - PROFESSIONAL,PROFESSIONAL FEES,Purchased Services,Professional Fees
+3188,2394,FEES - REIMBURSEMENT,PROFESSIONAL FEES,Purchased Services,Professional Fees
+3188,3448,PROF FEES - OTHER,FEES,Purchased Services,Professional Fees
+3192,72,Consulting Fees,Professional fees,Purchased Services,Professional Fees
+3194,245,620506-Prof Fees-Support Services,,Purchased Services,Professional Fees
+2992,65970,Patient Care Support-Patient Care Support,PG,Purchased Services,Professional Fees
+3125,1535,Professional Fees - Bank and Investment Fees,Professional Fees,Purchased Services,Professional Fees
+3210,1657,Other Expense,Professional fees - BCM,Purchased Services,Professional Fees
+3113,70237,RIU TUMOR REGISTRY MEDICAL FEES,Expenses,Purchased Services,Professional Fees
+3214,4748,NYS CASH REC ASSESS,Professional Fees,Purchased Services,Professional Fees
+3220,999,Program Director Admin,Prog Director Admin-Physician Serv,Purchased Services,Professional Fees
+3228,815,PROF DIETETIC SERV,Not Specified,Purchased Services,Professional Fees
+3171,5237,Professional Services-Laboratory Services - Interco-Medical Imaging of Frederick,Other Professional Svcs,Purchased Services,Professional Fees
+2990,6453,Claims Paid - Hospital-Wellcare DSNP,ECONMEDSERV,Purchased Services,Professional Fees
+2990,6285,Claims Paid - Hospital-Blue Medicare Adva Adv Centric,ECONMEDSERV,Purchased Services,Professional Fees
+1496,4484,Auditing,Professional Fees,Purchased Services,Professional Fees
+3167,470,BHI A-R Miscellaneous,Asset,Accounts Receivable - Other,Property/Plant/Equipment
+3167,478,BHI CT2M Grant Receivabl,Asset,Accounts Receivable - Other,Property/Plant/Equipment
+3167,484,BHI A-RFarmCtr-PACS Fees,Asset,Accounts Receivable - Other,Property/Plant/Equipment
+3167,5914,BHI A-R MSG-PACS Fees,Asset,Accounts Receivable - Other,Property/Plant/Equipment
+3196,124,MTSIDE INT MED A-R,Not Specified,Accounts Receivable - Other,Property/Plant/Equipment
+1975,23477,OPIOID USE DISORDER PATHWAY,,Accounts Receivable - Other,Property/Plant/Equipment
+3214,6476,A-R D.O.E.,BALSH,Accounts Receivable - Other,Property/Plant/Equipment
+3214,6479,A-R DEPT OF ARMY,BALSH,Accounts Receivable - Other,Property/Plant/Equipment
+3214,6511,A-R CUNY,BALSH,Accounts Receivable - Other,Property/Plant/Equipment
+3214,6519,A-R GUPTA,BALSH,Accounts Receivable - Other,Property/Plant/Equipment
+3218,828,PHA,NO,Accounts Receivable - Other,Property/Plant/Equipment
+3218,38,Southview Orthopedic Center Management C,NO,Accounts Receivable - Other,Property/Plant/Equipment
+3218,829,GDSC,NO,Accounts Receivable - Other,Property/Plant/Equipment
+3218,25,A-R Good Neighbor House,NO,Accounts Receivable - Other,Property/Plant/Equipment
+3218,44,HCAP,NO,Accounts Receivable - Other,Property/Plant/Equipment
+3218,29,CLOSED US Healthworks,NO,Accounts Receivable - Other,Property/Plant/Equipment
+3218,31,CLOSED A-R Opx Charges,NO,Accounts Receivable - Other,Property/Plant/Equipment
+3136,1049,A-R COVID,ASSET,Accounts Receivable - Other,Property/Plant/Equipment
+3184,2497,A-R-NW MEDICAL CENTER,,Accounts Receivable - Other,Property/Plant/Equipment
+3135,5808,CAPITAL ASSET NET PROCEEDS,OTHER A-R,Accounts Receivable - Other,Property/Plant/Equipment
+3179,10111,MCARE BAD DEBTS 2002,,Accounts Receivable - Allowance for Doubtful Accounts,Restricted Cash and Investments
+3121,3432,Restricted - Cou And Kaye Browne Endowment,(( LAWSON - DO NOT USE )),Unrestricted Net Assets,Restricted Cash and Investments
+3121,3436,Restricted - Eugene Griffin Hines,(( LAWSON - DO NOT USE )),Unrestricted Net Assets,Restricted Cash and Investments
+3196,168,A-R GIFT SHOP,Not Specified,Accounts Receivable - Other,Retail Revenue
+3177,569,RETAIL GOODS,,Other Expenses,Retail Revenue
+3198,155,RETAIL SHOP,Not Specified,Other Expenses,Retail Revenue
+1975,13655,BETHLEHEM RETAIL,,Other Expenses,Retail Revenue
+3119,668,RETAIL SALES,2_SUPPLIES,Supplies,Retail Revenue
+3126,2726,RETAIL SALES,Not Specified,Supplies,Retail Revenue
+2950,2129,United- Admin Inpatient,Commercial IP Admin,Contractual Allowances,Revenue - Inpatient
+2950,2175,Medicare- Admin Inpatient,Medicare IP Admin,Contractual Allowances,Revenue - Inpatient
+2950,2192,Mcare Mnged Other IP Admin,Managed Medicare IP Admin,Contractual Allowances,Revenue - Inpatient
+2975,172,REV DED - SP DIS IP,REV DED SP DIS,Contractual Allowances,Revenue - Inpatient
+2993,1206,IP REHABILITATION MEDICAID FFS FEE FOR SERVICE,IP REHAB MDCD FFS,Contractual Allowances,Revenue - Inpatient
+2993,2204,INPAT DENTAL DME MEDICARE,NPSR - IP GENERAL,Contractual Allowances,Revenue - Inpatient
+2993,2229,INPAT MEDICARE MANAGED CARE POOL,NPSR-IP ALCOHOL-DETOX REHAB,Contractual Allowances,Revenue - Inpatient
+2993,8134,DEN-IP MED-SURG COMMERCIAL MS FEE FOR SERVICE,NPSR-IP MED-SURG,Contractual Allowances,Revenue - Inpatient
+3121,8428,CurYr IP Mcare RAC,(( LAWSON - DO NOT USE )),Contractual Allowances,Revenue - Inpatient
+3121,8429,PriorYr IP Mcare RAC,(( LAWSON - DO NOT USE )),Contractual Allowances,Revenue - Inpatient
+3127,4073,IPCONT-Implicit Price Concession IP,IP CONT,Contractual Allowances,Revenue - Inpatient
+3136,183,INPATIENT,REVENUE,Contractual Allowances,Revenue - Inpatient
+3136,184,IP CHARGES,REVENUE,Contractual Allowances,Revenue - Inpatient
+3136,214,SEQUEST IP,REVENUE,Contractual Allowances,Revenue - Inpatient
+3136,217,SECONDARY IP,REVENUE,Contractual Allowances,Revenue - Inpatient
+3136,220,NO ABN IP,REVENUE,Contractual Allowances,Revenue - Inpatient
+3136,294,UPL IP,REVENUE,Contractual Allowances,Revenue - Inpatient
+3136,594,PENDING IP,REVENUE,Contractual Allowances,Revenue - Inpatient
+3148,1345,MEDICARE OTHER IP,MEDICARE-IP,Contractual Allowances,Revenue - Inpatient
+3148,1346,MEDICAID IP,MANAGED CARE -IP,Contractual Allowances,Revenue - Inpatient
+3148,1397,BLUE CROSS IP,SELF PAY - IP,Contractual Allowances,Revenue - Inpatient
+3167,3189,IP Medicare,Revenue,Contractual Allowances,Revenue - Inpatient
+3167,3191,IP Tricare,Revenue,Contractual Allowances,Revenue - Inpatient
+3167,3193,IP Medicaid,Revenue,Contractual Allowances,Revenue - Inpatient
+3173,1335,Rehab Admits IP TRAD Othr Govt,Rehab Admits,Contractual Allowances,Revenue - Inpatient
+3179,1121,BC IP SETTLEMENT,,Contractual Allowances,Revenue - Inpatient
+3196,85,IP BLUE CROSS,Not Specified,Contractual Allowances,Revenue - Inpatient
+3196,88,IP COMMERCIAL,Not Specified,Contractual Allowances,Revenue - Inpatient
+3196,90,IP WORKERS COMP,Not Specified,Contractual Allowances,Revenue - Inpatient
+3196,92,IP OTHER,Not Specified,Contractual Allowances,Revenue - Inpatient
+2950,2131,Aetna- Admin Inpatient,Commercial IP Admin,Contractual Allowances,Revenue - Inpatient
+2950,2137,Other PPO- Admin Inpatient,Commercial IP Admin,Contractual Allowances,Revenue - Inpatient
+2950,2130,Cigna- Admin Inpatient,Commercial IP Admin,Contractual Allowances,Revenue - Inpatient
+3230,388,IP WORKERS COMP,,Contractual Allowances,Revenue - Inpatient
+2992,53377,Infusion Center-Ancillary Revenue-Inpatient Revenue,,Other Operating Revenue,Revenue - Inpatient
+3175,5831,HOSPITAL IP REVENUE - RECLASS,NET INCOME,Other Operating Revenue,Revenue - Inpatient
+3126,2436,"GERSTEN, JEFFREY, PSY.D",Not Specified,Other Operating Revenue,Revenue - Inpatient
+2949,1690,GPR IP Fac,4000 GPR IP technical,Other Operating Revenue,Revenue - Inpatient
+2741,947,ANCILLARY O-P-MEDICARE,GR PAT REV,Revenue - Outpatient,Revenue - Inpatient
+2741,948,ANCILLARY O-P-MEDICAID,GR PAT REV,Revenue - Outpatient,Revenue - Inpatient
+2741,949,ANCILLARY O-P-ANTHEM BC,GR PAT REV,Revenue - Outpatient,Revenue - Inpatient
+2741,950,ANCILLARY O-P-HUMANA,GR PAT REV,Revenue - Outpatient,Revenue - Inpatient
+2741,952,ANCILLARY O-P-OTHER,GR PAT REV,Revenue - Outpatient,Revenue - Inpatient
+2741,954,ANCILLARY O-P-SELF PAY,GR PAT REV,Revenue - Outpatient,Revenue - Inpatient
+2990,2885,Hospice Hospital I-P Rev,ROOP,Revenue - Outpatient,Revenue - Inpatient
+2990,5345,Hospice Hospital I-P Rev-United Commercial,ROOP,Revenue - Outpatient,Revenue - Inpatient
+3120,441,Traditional Private Coverage,Patient Revenue,Revenue - Outpatient,Revenue - Inpatient
+3120,445,Traditional Medicare,Patient Revenue,Revenue - Outpatient,Revenue - Inpatient
+3120,447,Traditional Medi-Cal,Patient Revenue,Revenue - Outpatient,Revenue - Inpatient
+3120,459,Medi-Cal Managed Care,Patient Revenue,Revenue - Outpatient,Revenue - Inpatient
+3120,465,Private Coverage Managed Care,Patient Revenue,Revenue - Outpatient,Revenue - Inpatient
+3132,1443,Inpatient Revenue Outpatient Revenue,Inpatient Revenue,Revenue - Outpatient,Revenue - Inpatient
+3169,1563,O-P REV NJ B-C,REVENUE,Revenue - Outpatient,Revenue - Inpatient
+3169,1565,O-P REV COMMERCIAL,REVENUE,Revenue - Outpatient,Revenue - Inpatient
+3169,1573,O-P REV MNGD MA,REVENUE,Revenue - Outpatient,Revenue - Inpatient
+3179,903,O-P AR-ACUTE-MG-OUTS,,Revenue - Outpatient,Revenue - Inpatient
+3179,911,O-P AR-ACUTE-MG,,Revenue - Outpatient,Revenue - Inpatient
+3194,21,422055-Patient Rev-O-P MDCD,,Revenue - Outpatient,Revenue - Inpatient
+3194,28,433055-Patient Rev-Emergency MDCD,,Revenue - Outpatient,Revenue - Inpatient
+2992,659,ACH PHARMACY IN PATIENT IN PATIENT - NITRIC,IN PATIENT - NITRIC OXIDE,Accounts Receivable (Gross),Revenue - Other Patient Charges
+3110,2017,TH PEDIATRICS A/R,A,Accounts Receivable (Gross),Revenue - Other Patient Charges
+1178,13435,Suspense-Epic-Epic-PB,Outpatient Net Revenue,Contractual Allowances,Revenue - Outpatient
+2993,2294,AMB ADMINISTRATION WRITE OFF,NPSR - OP GENERAL,Contractual Allowances,Revenue - Outpatient
+2993,3252,AMB ADMINISTRATIVE COURTESY WRITE OFF,NPSR - OP GENERAL,Contractual Allowances,Revenue - Outpatient
+3118,438,MEDICAID OUTPATIENT CONTRACTUA,REVENUE,Contractual Allowances,Revenue - Outpatient
+3136,443,OUTPATIENT,REVENUE,Contractual Allowances,Revenue - Outpatient
+3136,444,OP CHARGES,REVENUE,Contractual Allowances,Revenue - Outpatient
+3146,906,O-P CELTICARE COMMERCIAL,Revenue,Contractual Allowances,Revenue - Outpatient
+3148,50,MEDICARE OP,MEDICARE-OP,Contractual Allowances,Revenue - Outpatient
+3148,57,MEDICARE PRIMARY CARE INCENTIV,MEDICARE-OP,Contractual Allowances,Revenue - Outpatient
+3148,114,BLUE CROSS OP,SELF PAY - OP,Contractual Allowances,Revenue - Outpatient
+3148,189,MEDICARE ER,MEDICARE-EMERGENCY,Contractual Allowances,Revenue - Outpatient
+3150,418,SELF PAY OUTPATIENT,Not Specified,Contractual Allowances,Revenue - Outpatient
+3150,419,HMO PPO MGD CARE OP,Not Specified,Contractual Allowances,Revenue - Outpatient
+3150,420,PRIVATE INSURANCE OP,Not Specified,Contractual Allowances,Revenue - Outpatient
+3150,421,WORKERS COMP OUTPATIENT,Not Specified,Contractual Allowances,Revenue - Outpatient
+3150,422,MCRE TRADITIONAL OP,Not Specified,Contractual Allowances,Revenue - Outpatient
+3150,423,MCRE MGD CARE OP,Not Specified,Contractual Allowances,Revenue - Outpatient
+3150,424,MCAL TRADITIONAL OP,Not Specified,Contractual Allowances,Revenue - Outpatient
+3150,425,MCAL MGD CARE OP,Not Specified,Contractual Allowances,Revenue - Outpatient
+3150,426,OTHER GOVT OUTPATIENT,Not Specified,Contractual Allowances,Revenue - Outpatient
+3150,437,PRIVATE INSURANCE ER,Not Specified,Contractual Allowances,Revenue - Outpatient
+3167,3213,OP MCR,Revenue,Contractual Allowances,Revenue - Outpatient
+3179,1054,OP CHARGES,,Contractual Allowances,Revenue - Outpatient
+3179,1089,OP CHARGES,,Contractual Allowances,Revenue - Outpatient
+3179,1126,OP CHARGES,,Contractual Allowances,Revenue - Outpatient
+3184,1843,OTHER SELF PAY,,Contractual Allowances,Revenue - Outpatient
+3196,56,OP WORKERS COMP,Not Specified,Contractual Allowances,Revenue - Outpatient
+3196,62,OP OTHER,Not Specified,Contractual Allowances,Revenue - Outpatient
+3196,95,OP BLUE CROSS,Not Specified,Contractual Allowances,Revenue - Outpatient
+3196,96,OP MEDICAID,Not Specified,Contractual Allowances,Revenue - Outpatient
+3196,100,OP WORKERS COMP,Not Specified,Contractual Allowances,Revenue - Outpatient
+3196,102,OP OTHER,Not Specified,Contractual Allowances,Revenue - Outpatient
+3196,103,ER MEDICARE,Not Specified,Contractual Allowances,Revenue - Outpatient
+3196,104,ER BLUE CROSS,Not Specified,Contractual Allowances,Revenue - Outpatient
+3196,105,ER MEDICAID,Not Specified,Contractual Allowances,Revenue - Outpatient
+3196,106,ER HMO-PPO,Not Specified,Contractual Allowances,Revenue - Outpatient
+3196,109,ER WORKERS COMP,Not Specified,Contractual Allowances,Revenue - Outpatient
+3196,1203,OP BLUE CROSS,Not Specified,Contractual Allowances,Revenue - Outpatient
+3196,1208,OP MEDICAID,Not Specified,Contractual Allowances,Revenue - Outpatient
+3200,554,OP MEDICAID MCO,Not Specified,Contractual Allowances,Revenue - Outpatient
+3200,564,OP ANCILLARY CT,Not Specified,Contractual Allowances,Revenue - Outpatient
+3230,63,OP OTHER,,Contractual Allowances,Revenue - Outpatient
+3230,391,OP WORKERS COMP,,Contractual Allowances,Revenue - Outpatient
+3230,392,OP SELF PAY,,Contractual Allowances,Revenue - Outpatient
+3184,2476,OP MGD CARE CANCELLED PROCEDURE,,Contractual Allowances,Revenue - Outpatient
+1150,15835,P4P REVENUE,OUTPATIENT,Other Operating Revenue,Revenue - Outpatient
+1150,15836,MACRA REVENUE,OUTPATIENT,Other Operating Revenue,Revenue - Outpatient
+1150,15837,OTHER PSR,OUTPATIENT,Other Operating Revenue,Revenue - Outpatient
+1284,14181,Revenue Private,Patient Revenue,Other Operating Revenue,Revenue - Outpatient
+2988,36,Outpatient Pharmacy Revenue,22 - OSU OP Pharmacy Revenue,Other Operating Revenue,Revenue - Outpatient
+2990,2862,Medicare - PPS Revenue,ROOP,Other Operating Revenue,Revenue - Outpatient
+2990,5376,Medicare - PPS Revenue-Medicare,ROOP,Other Operating Revenue,Revenue - Outpatient
+2990,5377,Medicare - PPS Revenue-Medicare Other,ROOP,Other Operating Revenue,Revenue - Outpatient
+2992,51520,5D Progressive Care-Routine Revenue-Outpatient Revenue,,Other Operating Revenue,Revenue - Outpatient
+3121,8453,PriorYr OP Mcaid DSH,(( LAWSON - DO NOT USE )),Other Operating Revenue,Revenue - Outpatient
+3122,587,CLIENT,OUTPATIENT,Other Operating Revenue,Revenue - Outpatient
+3136,169,OUTPATIENT REVENUE,REVENUE,Other Operating Revenue,Revenue - Outpatient
+3163,462,VENDING REVENUE,ROC,Other Operating Revenue,Revenue - Outpatient
+3163,464,EPISODES OF CARE,ROC,Other Operating Revenue,Revenue - Outpatient
+3175,5860,HOSPITAL OP REVENUE - 340B,NET INCOME,Other Operating Revenue,Revenue - Outpatient
+3175,5862,HOSPITAL OP REVENUE - RECLASS,NET INCOME,Other Operating Revenue,Revenue - Outpatient
+3198,230,BMPG PRO FEES REV,Not Specified,Other Operating Revenue,Revenue - Outpatient
+3126,2494,OTHER OP REV,Not Specified,Other Operating Revenue,Revenue - Outpatient
+2989,1003,Pharmacy revenue - non Epic,Outpatient,Other Operating Revenue,Revenue - Outpatient
+2741,943,ANCILLARY I-P-COMM,GR PAT REV,Revenue - Inpatient,Revenue - Outpatient
+2982,1440,Distributed Supply Rev-In,INPTSVCS,Revenue - Inpatient,Revenue - Outpatient
+3120,450,Mental Health,Patient Revenue,Revenue - Inpatient,Revenue - Outpatient
+3120,454,Sheriffs (Detention Care),Patient Revenue,Revenue - Inpatient,Revenue - Outpatient
+3163,295,I-P-PPOS,ROC,Revenue - Inpatient,Revenue - Outpatient
+3163,297,I-P-COMMERCIAL,ROC,Revenue - Inpatient,Revenue - Outpatient
+3163,298,I-P-MEDICAID,ROC,Revenue - Inpatient,Revenue - Outpatient
+3163,300,I-P-TENNCARE-AMERIGROUP,ROC,Revenue - Inpatient,Revenue - Outpatient
+3163,302,I-P-TENNCARE-BLUE CROSS B-S,ROC,Revenue - Inpatient,Revenue - Outpatient
+3163,304,I-P-TNCARE-AMERCHOICE,ROC,Revenue - Inpatient,Revenue - Outpatient
+3163,306,I-P-TENNCARE-BLUE CARE,ROC,Revenue - Inpatient,Revenue - Outpatient
+3163,307,I-P-TENNCARE PENDING,ROC,Revenue - Inpatient,Revenue - Outpatient
+3163,308,I-P-GOVT OTHER,ROC,Revenue - Inpatient,Revenue - Outpatient
+3163,309,I-P-SELF PAY,ROC,Revenue - Inpatient,Revenue - Outpatient
+3169,1551,I-P REV CHAMPUS,REVENUE,Revenue - Inpatient,Revenue - Outpatient
+3169,1552,I-P REV MEDICARE,REVENUE,Revenue - Inpatient,Revenue - Outpatient
+3169,1553,I-P REV MNGD MDCR,REVENUE,Revenue - Inpatient,Revenue - Outpatient
+3169,1555,I-P REV HMO-PPO,REVENUE,Revenue - Inpatient,Revenue - Outpatient
+3169,1556,I-P REV NJ MEDICAID,REVENUE,Revenue - Inpatient,Revenue - Outpatient
+3169,1562,I-P REV SELF PAY,REVENUE,Revenue - Inpatient,Revenue - Outpatient
+3179,872,I-P AR-ACUTE-MC,,Revenue - Inpatient,Revenue - Outpatient
+3179,873,I-P AR-ACUTE-MX,,Revenue - Inpatient,Revenue - Outpatient
+3179,874,I-P AR-ACUTE-OG,,Revenue - Inpatient,Revenue - Outpatient
+3179,876,I-P AR-ACUTE-BC,,Revenue - Inpatient,Revenue - Outpatient
+3179,877,I-P AR-ACUTE-CI,,Revenue - Inpatient,Revenue - Outpatient
+3179,878,I-P AR-ACUTE-OT,,Revenue - Inpatient,Revenue - Outpatient
+3179,879,I-P AR-ACUTE-SP,,Revenue - Inpatient,Revenue - Outpatient
+3194,2,411010-Patient Rev-I-P MDCR,,Revenue - Inpatient,Revenue - Outpatient
+3194,3,411020-Patient Rev-I-P Blue Cross,,Revenue - Inpatient,Revenue - Outpatient
+3194,4,411045-Patient Rev-I-P Commercial,,Revenue - Inpatient,Revenue - Outpatient
+3194,6,411080-Patient Rev-I-P Private,,Revenue - Inpatient,Revenue - Outpatient
+3119,5244,I-P COMMERCIAL REVENUE OTHER,2_DR. CLINIC REVENUE,Revenue - Inpatient,Revenue - Outpatient
+3119,5246,I-P OTHER REVENUE OTHER,2_DR. CLINIC REVENUE,Revenue - Inpatient,Revenue - Outpatient
+3119,5248,I-P 65 PLAN MEDICARE,2_DR. CLINIC REVENUE,Revenue - Inpatient,Revenue - Outpatient
+3119,5250,I-P MANAGED CARE OTHER,2_DR. CLINIC REVENUE,Revenue - Inpatient,Revenue - Outpatient
+3119,5240,I-P MEDICARE REVENUE,2_DR. CLINIC REVENUE,Revenue - Inpatient,Revenue - Outpatient
+3119,5242,I-P MEDICAID REVENUE OTHER,2_DR. CLINIC REVENUE,Revenue - Inpatient,Revenue - Outpatient
+3105,12827,R and B Non-Desg,010 PTNT. RE,Revenue - Inpatient,Revenue - Outpatient
+2968,2565,ICF REV - MEDICAID,4100,Revenue - Inpatient,Revenue - Outpatient
+1284,14187,Revenue MED A,Patient Revenue,Revenue - Inpatient,Revenue - Outpatient
+2955,2267,O-P-OFFICE CONSULTS-CMM,Revenue,Revenue - Professional Billing,Revenue - Outpatient
+2955,2268,O-P-NURSING HOME VISITS-CMM,Revenue,Revenue - Professional Billing,Revenue - Outpatient
+2982,2081,Gross Charges-CRNA,PHYSSVCS,Revenue - Professional Billing,Revenue - Outpatient
+2993,3198,HMO MEDICAID AMB PROF GROSS CHAR,NPSR - OP GENERAL,Revenue - Professional Billing,Revenue - Outpatient
+3109,2421,PROF REV - PENDING ER,ER REVENUE,Revenue - Professional Billing,Revenue - Outpatient
+3112,1854,OP PROFESSL REVENUE PMAS,OUTPATIENT REVENUE,Revenue - Professional Billing,Revenue - Outpatient
+3112,4535,OP PROFESSL REVENUE,OUTPATIENT REVENUE,Revenue - Professional Billing,Revenue - Outpatient
+3132,1451,Outpatient Revenue Professional Revenue,Outpatient Revenue,Revenue - Professional Billing,Revenue - Outpatient
+3132,1454,Outpatient Revenue Other (PB),Outpatient Revenue,Revenue - Professional Billing,Revenue - Outpatient
+3184,518,PROFESSIONAL FEE OP,PL-Patient Revenue,Revenue - Professional Billing,Revenue - Outpatient
+3133,726,610705-LONG TERM CARE REVENUE,GROSS LTC,Accounts Receivable (Gross),Revenue - Post Acute
+3110,845,C/A HOSPICE C/A,R,Contractual Allowances,Revenue - Post Acute
+3136,560,SNF CHARGES,REVENUE,Contractual Allowances,Revenue - Post Acute
+3136,562,SEQUEST SNF,REVENUE,Contractual Allowances,Revenue - Post Acute
+3179,3437,I-C: TRNTY HOSPICE,,Long Term Liabilities,Revenue - Post Acute
+1975,564,PHYSICIAN REVENUE,Contractuals,Contractual Allowances,Revenue - Professional Billing
+3132,2416,Professional Revenue Other Contractual Adjustment,Professional Fee Revenue,Contractual Allowances,Revenue - Professional Billing
+3136,493,PROVIDER LIAB OP,REVENUE,Contractual Allowances,Revenue - Professional Billing
+2980,211,PROFESSIONAL LICENSURE,Professional Licensure,Other Expenses,Revenue - Professional Billing
+3167,3309,Professional,Expense,Other Expenses,Revenue - Professional Billing
+2053,1673,ADEX Nurses,SALARIES_AND_WAGES,Contract Labor,Salaries
+2053,1707,Randstad RN's,SALARIES_AND_WAGES,Contract Labor,Salaries
+2717,1874,Contract Labor-Speclty Prov,Salaries and Wages,Contract Labor,Salaries
+2951,128,Contract Labor - No Class,SALARIES,Contract Labor,Salaries
+2980,222,SAL-WAGES-OUTSOURCED LABOR,Salaries and Wages Outsourced Labor,Contract Labor,Salaries
+2992,26997,BRIEF TOBACCO INTERV SALARIES - NONPRODUC,SALARIES - NONPRODUCTIVE,Contract Labor,Salaries
+2992,65746,Salaries-Salaries - Contract,ISG,Contract Labor,Salaries
+3104,435,Nursing Agency,Employee Salaries - No Job Fam,Contract Labor,Salaries
+3104,437,Professional Agency Fees,Employee Salaries - No Job Fam,Contract Labor,Salaries
+3104,445,Non Nursing Agency Fees,Employee Salaries - No Job Fam,Contract Labor,Salaries
+3120,203,Temporary Help Services,Salaries Wages and Benefits,Contract Labor,Salaries
+3127,2562,SALARIES-Contr Labor Physicans,SALARIES,Contract Labor,Salaries
+3127,2565,SALARIES-Contract Tech,SALARIES,Contract Labor,Salaries
+3177,490,PURCHASED LABOR-ALL OTHER,,Contract Labor,Salaries
+3177,491,PURCHASED LABOR-RN,,Contract Labor,Salaries
+2727,19772,Contract Lbr-Staff Travl Costs,Salaries and Wages,Contract Labor,Salaries
+3105,27075,Accrued Purchase Service Labor,060 LABOR,Contract Labor,Salaries
+2949,1053,Temp Help Clerical,6000 Salaries worked,Contract Labor,Salaries
+1829,1047,A/R-PRIOR YEAR ACCRUAL,,Accounts Receivable (Gross),Settlement Deduction
+2053,722,Prior Year C R Settlement,PRIOR_YR_CR_SETTLE,Other Operating Revenue,Settlement Deduction
+2950,1339,Medicare-Settle Allow IP,Medicare IP Allow,Other Operating Revenue,Settlement Deduction
+2950,1471,LA Medicaid-Settle Allow IP,LA Medicaid IP Allow,Other Operating Revenue,Settlement Deduction
+2975,82,UPL INCOME,REV DED MA,Other Operating Revenue,Settlement Deduction
+3169,1266,SHORT TERM DISABLTY,EXPENSES,Benefits,Short Term Investments
+1246,13124,PROSTHESIS SUPPLIES,Supplies Expense,Supplies - Implants,Supplies - Chargeable Medical
+1246,13127,PROSTHESIS GEN PLASTIC BURN,Supplies Expense,Supplies - Implants,Supplies - Chargeable Medical
+1246,13128,PROSTHESIS NEURO,Supplies Expense,Supplies - Implants,Supplies - Chargeable Medical
+1246,13130,PROSTHESIS UROLOGY,Supplies Expense,Supplies - Implants,Supplies - Chargeable Medical
+1246,13131,PROSTHESIS ENT OPHTH,Supplies Expense,Supplies - Implants,Supplies - Chargeable Medical
+1246,13138,SURG SUPPLY INTRNL PCEMKRS,Supplies Expense,Supplies - Implants,Supplies - Chargeable Medical
+1246,13140,SURG SUPPLY TRANSPLANT ORGANS,Supplies Expense,Supplies - Implants,Supplies - Chargeable Medical
+1246,13172,MED SUPPLIES PTCA,Supplies Expense,Supplies - Implants,Supplies - Chargeable Medical
+1284,1995,Shoulders,Medical Surgical Supplies,Supplies - Implants,Supplies - Chargeable Medical
+1284,4619,Corneal Transplants,Medical Surgical Supplies,Supplies - Implants,Supplies - Chargeable Medical
+1284,6146,Ortho-Totals,Medical Surgical Supplies,Supplies - Implants,Supplies - Chargeable Medical
+1284,7067,TAVR,Medical Surgical Supplies,Supplies - Implants,Supplies - Chargeable Medical
+1325,2335,Transplant Organs - Harvested,Medical and Surgical Supplies,Supplies - Implants,Supplies - Chargeable Medical
+1367,5193,Defibrillators,MEDSUPP,Supplies - Implants,Supplies - Chargeable Medical
+1747,124,SPECIALITY CATHETERS,MEDICAL AND SURGICAL SUPPLIES,Supplies - Implants,Supplies - Chargeable Medical
+1747,183,CARDIOVASCULAR TISSUE,MEDICAL AND SURGICAL SUPPLIES,Supplies - Implants,Supplies - Chargeable Medical
+1829,844,ORGANS FOR TRANSPLANT,SP_SUPL,Supplies - Implants,Supplies - Chargeable Medical
+1975,437,GRAFTS,Supplies - medical,Supplies - Implants,Supplies - Chargeable Medical
+2724,2608,Spine,ORDEVICES,Supplies - Implants,Supplies - Chargeable Medical
+2956,4149,Ent Prosthesis,Patient Supplies,Supplies - Implants,Supplies - Chargeable Medical
+2956,4156,Spine Biologics,Patient Supplies,Supplies - Implants,Supplies - Chargeable Medical
+1170,2066,Medical Supplies - Medical Supply Rebates,Spectrum Financials,Supplies - Implants,Supplies - Chargeable Medical
+3104,4750,Cardiac Grafts,Medical and Surgical,Supplies - Implants,Supplies - Chargeable Medical
+3104,4754,TAVR,Medical and Surgical,Supplies - Implants,Supplies - Chargeable Medical
+3121,4422,ICD,( LAWSON - IS - Operating Expenses - Medical and Surgical Supplies ),Supplies - Implants,Supplies - Chargeable Medical
+3127,2714,SandE-ICDs,MED SURG,Supplies - Implants,Supplies - Chargeable Medical
+3146,2051,MED-SURG IMPLANTABLES,Expense,Supplies - Implants,Supplies - Chargeable Medical
+3150,498,PROSTHESIS-GENERAL,Not Specified,Supplies - Implants,Supplies - Chargeable Medical
+3150,499,PROSTHESIS-NEURO,Not Specified,Supplies - Implants,Supplies - Chargeable Medical
+3150,502,PROSTHESIS VASCULAR,Not Specified,Supplies - Implants,Supplies - Chargeable Medical
+3188,3465,BALLOONS-CORONARY,BILLABLE SUPPLIES,Supplies - Implants,Supplies - Chargeable Medical
+3188,3466,BALLOONS-PERIPHERAL VASCULAR,BILLABLE SUPPLIES,Supplies - Implants,Supplies - Chargeable Medical
+3192,81,Open Heart-Grafts-Supplies,Medical supplies and drugs,Supplies - Implants,Supplies - Chargeable Medical
+3161,179,Neuro Intervntl Sply,DIRECTSUPPL,Supplies - Implants,Supplies - Chargeable Medical
+3204,731,IMPLANTABLES - BILLABLE,OPERATING EXPENSES,Supplies - Implants,Supplies - Chargeable Medical
+1496,4258,Organs - Cadaver,Medical Supplies,Supplies - Implants,Supplies - Chargeable Medical
+3222,445,ORTHOPEDIC,Not Specified,Supplies - Implants,Supplies - Chargeable Medical
+3105,7578,Prosthesis-Cardiovascular,090 MED SUPP,Supplies - Implants,Supplies - Chargeable Medical
+2980,41362,Supplies - Medical,Supplies,Supplies - Implants,Supplies - Chargeable Medical
+2980,41367,Supplies - Medical,Supplies,Supplies - Implants,Supplies - Chargeable Medical
+2980,41387,Supplies - Medical,Supplies,Supplies - Implants,Supplies - Chargeable Medical
+2980,41089,Supplies - Medical,Supplies,Supplies - Implants,Supplies - Chargeable Medical
+2980,41356,Supplies - Medical,Supplies,Supplies - Implants,Supplies - Chargeable Medical
+2980,41357,Supplies - Medical,Supplies,Supplies - Implants,Supplies - Chargeable Medical
+2980,41358,Supplies - Medical,Supplies,Supplies - Implants,Supplies - Chargeable Medical
+2980,41359,Supplies - Medical,Supplies,Supplies - Implants,Supplies - Chargeable Medical
+2980,41360,Supplies - Medical,Supplies,Supplies - Implants,Supplies - Chargeable Medical
+2980,41361,Supplies - Medical,Supplies,Supplies - Implants,Supplies - Chargeable Medical
+2980,41393,Supplies - Medical,Supplies,Supplies - Implants,Supplies - Chargeable Medical
+2980,41390,Supplies - Medical,Supplies,Supplies - Implants,Supplies - Chargeable Medical
+2980,41428,Supplies - Medical,Supplies,Supplies - Implants,Supplies - Chargeable Medical
+2980,41864,Supplies - Medical,Supplies,Supplies - Implants,Supplies - Chargeable Medical
+2980,41090,Supplies - Medical,Supplies,Supplies - Implants,Supplies - Chargeable Medical
+2980,41091,Supplies - Medical,Supplies,Supplies - Implants,Supplies - Chargeable Medical
+2980,41092,Supplies - Medical,Supplies,Supplies - Implants,Supplies - Chargeable Medical
+2980,41421,Supplies - Medical,Supplies,Supplies - Implants,Supplies - Chargeable Medical
+1496,4232,Bone Products,Medical Supplies,Supplies - Implants,Supplies - Chargeable Medical
+1496,5992,Incontinent Supplies,Medical Supplies,Supplies - Implants,Supplies - Chargeable Medical
+3110,1893,COOLING TOWERS 2-3 REPLACEMENT,A,CIP,Supplies - Implants
+3220,884,Organ Acquisition Cost,Organ Acquisition Costs,Other Expenses,Supplies - Implants
+2968,692,MATTRESS REPLACEMENT,7060,Other Expenses,Supplies - Implants
+1177,544,Implants,PATIENT CHARGEABLE SUPPLIES,Supplies,Supplies - Implants
+1157,1525,Implants,Supplies,Supplies,Supplies - Implants
+1650,1733,IMPLANTS-BONE-TISSUE,SUPPLIES-SURGICAL,Supplies,Supplies - Implants
+1650,1735,IMPLANTS-JOINTS,SUPPLIES-SURGICAL,Supplies,Supplies - Implants
+1650,1736,IMPLANTS-KNEE HIP,SUPPLIES-SURGICAL,Supplies,Supplies - Implants
+1650,3875,TOTAL JOINTS-OTHER IMPLANTS,SUPPLIES-SURGICAL,Supplies,Supplies - Implants
+1650,3877,TOTAL HIP IMPLANTS,SUPPLIES-SURGICAL,Supplies,Supplies - Implants
+2990,1743,Ortho Implant - Joints,EOSUPPMED,Supplies,Supplies - Implants
+2993,2656,IMPLANTABLE DEFIBRILLATORS,APPLIANCES AND PROSTHETICS,Supplies,Supplies - Implants
+2993,2661,PROSTHESIS IMPLANTABLE DEVICES,APPLIANCES AND PROSTHETICS,Supplies,Supplies - Implants
+2993,2969,STENTS,MEDICAL SURGICAL SUPPLIES,Supplies,Supplies - Implants
+3146,2665,Coronary Cath Guidewires,Cardiac,Supplies,Supplies - Implants
+3146,2666,Coronary Balloons,Cardiac,Supplies,Supplies - Implants
+3146,2667,Rings Valves,Cardiac,Supplies,Supplies - Implants
+3196,557,SPINE,Not Specified,Supplies,Supplies - Implants
+3210,137,PACEMAKER SUPPLIES,Supplies,Supplies,Supplies - Implants
+1284,1723,Heart Valves,Medical Surgical Supplies,Supplies - Chargeable Medical,Supplies - Implants
+1305,637,Bone Morphogenic Protein,SUPPLIES,Supplies - Chargeable Medical,Supplies - Implants
+1305,638,Bone - Tissue,SUPPLIES,Supplies - Chargeable Medical,Supplies - Implants
+1747,272,ORGAN PROCUREMENT,MEDICAL AND SURGICAL SUPPLIES,Supplies - Chargeable Medical,Supplies - Implants
+2717,312,Organ Transportation,Medical Clinical Supplies,Supplies - Chargeable Medical,Supplies - Implants
+2956,4120,Surgical Mesh Expense,Patient Supplies,Supplies - Chargeable Medical,Supplies - Implants
+1170,1984,Medical Supplies - Transplant Organ Cost,Spectrum Financials,Supplies - Chargeable Medical,Supplies - Implants
+3112,2167,SUPPLIES TISSUE HUMAN,SUPPLIES,Supplies - Chargeable Medical,Supplies - Implants
+3120,159,Non-Implantable Prosthesis,Supplies,Supplies - Chargeable Medical,Supplies - Implants
+3146,10911,Coronary Cath Guidewires - Medical Surgical Supplies,Cardiac,Supplies - Chargeable Medical,Supplies - Implants
+3159,2615,BONE CEMENT,Supplies,Supplies - Chargeable Medical,Supplies - Implants
+3165,3114,Stents-Billble Supplies,SUPPLIESSURG,Supplies - Chargeable Medical,Supplies - Implants
+3175,4822,PROSTHESIS - BONE and TISSUE,NET INCOME,Supplies - Chargeable Medical,Supplies - Implants
+3200,684,MED SUP,Not Specified,Supplies - Chargeable Medical,Supplies - Implants
+3200,688,MED SUP- GYNE,Not Specified,Supplies - Chargeable Medical,Supplies - Implants
+3113,70164,RIU NON INVASIVE CARDIAC PACEMAKERS,Expenses,Supplies - Chargeable Medical,Supplies - Implants
+3105,7566,Med Sup-Metal - Wood,090 MED SUPP,Supplies - Medical,Supplies - Implants
+1227,936,Med Supply-Pain Implants,Medical Supplies,Supplies - Medical,Supplies - Implants
+2968,607,HEART VALVES,7050,Supplies - Medical,Supplies - Implants
+2968,618,BONE-TISSUE,7050,Supplies - Medical,Supplies - Implants
+3105,7557,Neuro Fixation,090 MED SUPP,Supplies - Implants,Supplies - Medical
+3105,7582,AICD,090 MED SUPP,Supplies - Implants,Supplies - Medical
+3230,133,SYNTHETIC BONE CEMNT,Patient service supplies,Supplies - Implants,Supplies - Medical
+3230,136,NEURO STIMULATORS,Patient service supplies,Supplies - Implants,Supplies - Medical
+3230,131,ORTHO IMPANT FRACT,Patient service supplies,Supplies - Implants,Supplies - Medical
+3230,153,MEDICAL CLIPS,Patient service supplies,Supplies - Implants,Supplies - Medical
+2989,843,Temporarily Restricted Gifts,Contributions,Contributions,Temporarily Restricted Net Assets
+2992,65606,Contributions-General Contributions,Temporarily_Restricted,Contributions,Temporarily Restricted Net Assets
+3222,81,TEMP RESTRICTED NONCAPITAL GIFTGRANTand CONT-UNDISTRIB,Not Specified,Contributions,Temporarily Restricted Net Assets
+3222,256,TEMP RESTRICTED NONCAPITAL GIFTGRANTandCONTRIBUTION,Not Specified,Contributions,Temporarily Restricted Net Assets
+1829,1370,GRANT LIABILITIES,,Other Current Liabilities,Temporarily Restricted Net Assets
+2988,15055,CICIP,Liabilities,Other Current Liabilities,Temporarily Restricted Net Assets
+3169,361,PSEandG GRANT,LIABILITIES,Other Current Liabilities,Temporarily Restricted Net Assets
+3169,380,CENTOCOR GRANT,LIABILITIES,Other Current Liabilities,Temporarily Restricted Net Assets
+3169,397,BENEFICIAL INTEREST IN FDN ASSETS,LIABILITIES,Other Current Liabilities,Temporarily Restricted Net Assets
+3109,2010,CNTRBTN FUND BANK FEES,RESTRICTED FUND BALANCE,Other Noncurrent Assets,Temporarily Restricted Net Assets
+3109,2292,CANCER RESEARCH FOUNDATION,RESTRICTED FUND BALANCE,Other Noncurrent Assets,Temporarily Restricted Net Assets
+3109,2307,MOD FOUNDATION FUND (PTL),RESTRICTED FUND BALANCE,Other Noncurrent Assets,Temporarily Restricted Net Assets
+3109,2322,FUN RUN,RESTRICTED FUND BALANCE,Other Noncurrent Assets,Temporarily Restricted Net Assets
+3109,2324,WISHBOOK DONATIONS,RESTRICTED FUND BALANCE,Other Noncurrent Assets,Temporarily Restricted Net Assets
+3109,2326,MEDICAL LIBRARY ENDOWMENT FUND,RESTRICTED FUND BALANCE,Other Noncurrent Assets,Temporarily Restricted Net Assets
+3109,2329,DIAMOND HILL FUND,RESTRICTED FUND BALANCE,Other Noncurrent Assets,Temporarily Restricted Net Assets
+3109,2332,TRAUMA CAMPAIGN FUND,RESTRICTED FUND BALANCE,Other Noncurrent Assets,Temporarily Restricted Net Assets
+3109,2338,EMPL. CONTRIBUTIONS,RESTRICTED FUND BALANCE,Other Noncurrent Assets,Temporarily Restricted Net Assets
+3109,2341,LLLN COOPER-DROKE MRL SCHLRSHP,RESTRICTED FUND BALANCE,Other Noncurrent Assets,Temporarily Restricted Net Assets
+3109,2365,LAW ENFORCEMNT OFFICER STDS and ED,RESTRICTED FUND BALANCE,Other Noncurrent Assets,Temporarily Restricted Net Assets
+3112,2744,CROGHAN INV TEMP RESTRICTED,RESTRICTED FUNDS,Other Noncurrent Assets,Temporarily Restricted Net Assets
+3200,316,INT IN TEMP REST NA OF EF,Not Specified,Other Noncurrent Assets,Temporarily Restricted Net Assets
+1975,935,DONATIONS RECD-REL BLDG PROJ,Unrestricted Income from Restricted Net Assets,Other Nonoperating Rev (Exp),Temporarily Restricted Net Assets
+2036,336,TEMPORARILY RESTRICTED INCOME,OTHER REVENUE,Other Nonoperating Rev (Exp),Temporarily Restricted Net Assets
+3133,616,800690-CLOSE TO TRUST-GRANT FUNDS,OTH NET EXP,Other Nonoperating Rev (Exp),Temporarily Restricted Net Assets
+3154,228,FUND BALANCE CLOSE-OUT,,Other Nonoperating Rev (Exp),Temporarily Restricted Net Assets
+3214,5563,GRANTS AWARDS - RESTRICTED,Not Specified,Other Nonoperating Rev (Exp),Temporarily Restricted Net Assets
+2977,1438,MINORITY INTEREST,NET ASSETS,Long Term Liabilities,Unrestricted Net Assets
+2977,1439,MINORITY INTEREST,NET ASSETS,Long Term Liabilities,Unrestricted Net Assets
+3121,3022,(Gain)Loss On Redemption Debt,(( LAWSON - DO NOT USE )),Long Term Liabilities,Unrestricted Net Assets
+3150,1245,COMMON STOCK,Not Specified,Long Term Liabilities,Unrestricted Net Assets
+3167,1140,BHI Unrestricted Fund,Liability,Long Term Liabilities,Unrestricted Net Assets
+3175,5773,OTHER LIABILITIES - MISC,LIABILITIES AND NET ASSETS,Long Term Liabilities,Unrestricted Net Assets
+3179,3438,I-C: AFFINITY ASC,,Long Term Liabilities,Unrestricted Net Assets
+3200,505,CAPITAL STOCK OUTSTANDING,Not Specified,Long Term Liabilities,Unrestricted Net Assets
+3218,226,Due To Minority Partner,NO,Long Term Liabilities,Unrestricted Net Assets
+2990,6463,Intercompany Noncontrolling Interest,NONCONTROLJV,Long Term Liabilities,Unrestricted Net Assets
+3110,373,TAXI FUND,L,Other Current Liabilities,Unrestricted Net Assets
+3121,8466,Transfer From Interest Fund,(( LAWSON - DO NOT USE )),Other Current Liabilities,Unrestricted Net Assets
+3169,393,A. NG RESEARCH FUND,LIABILITIES,Other Current Liabilities,Unrestricted Net Assets
+3177,383,ERROR SUSPENSE,,Other Current Liabilities,Unrestricted Net Assets
+3177,384,GENERAL FUND BALANCE,,Other Current Liabilities,Unrestricted Net Assets
+3177,386,FUND BAL-TEMPORARY FUND,,Other Current Liabilities,Unrestricted Net Assets
+3196,758,FUND BALANCE INVESTED IN PLANT,Not Specified,Other Current Liabilities,Unrestricted Net Assets
+3196,762,RESERVED FUND BALANCE (PLANT),Not Specified,Other Current Liabilities,Unrestricted Net Assets
+3196,787,RESERVED FUND BALANCE (CURTIN),Not Specified,Other Current Liabilities,Unrestricted Net Assets
+3196,789,RESTRICTED FOUNDATION FUND BAL,Not Specified,Other Current Liabilities,Unrestricted Net Assets
+1975,17538,A MATTER OF BALANCE PROGRAM,,Other Current Liabilities,Unrestricted Net Assets
+2053,373,Noncur Expense Paid In Advance,NONCURR_EXP_PAID,Other Noncurrent Assets,Unrestricted Net Assets
+2962,626,EQUITY IN VA RECIPROCAL,143000,Other Noncurrent Assets,Unrestricted Net Assets
+2995,6275,Net Assets of Foundation,Net Assets of Founda,Other Noncurrent Assets,Unrestricted Net Assets
+3109,2311,EQUIPMENT FUND BAL,RESTRICTED FUND BALANCE,Other Noncurrent Assets,Unrestricted Net Assets
+3109,2313,MRL CHAPEL FUND BAL,RESTRICTED FUND BALANCE,Other Noncurrent Assets,Unrestricted Net Assets
+3109,2315,MISC. PROJECTS FUND BAL,RESTRICTED FUND BALANCE,Other Noncurrent Assets,Unrestricted Net Assets
+3109,2317,VOLUNTEERS FUND BAL,RESTRICTED FUND BALANCE,Other Noncurrent Assets,Unrestricted Net Assets
+3109,2342,NEONATAL ICU SUPPORT FUND BAL,RESTRICTED FUND BALANCE,Other Noncurrent Assets,Unrestricted Net Assets
+3109,2343,PHARMACY PROJECT FUND BAL,RESTRICTED FUND BALANCE,Other Noncurrent Assets,Unrestricted Net Assets
+3121,2130,Invest Designted For Capital,(( LAWSON - DO NOT USE )),Other Noncurrent Assets,Unrestricted Net Assets
+3150,384,PLEDGES GENERAL FUND,Not Specified,Other Noncurrent Assets,Unrestricted Net Assets
+3157,20048,RICHARD LIEW SCHOLARSHIP FUND,Not Specified,Other Noncurrent Assets,Unrestricted Net Assets
+3165,4582,DISB-North Ohio Heart Inc - Sushat B Sharma MD,NET ASSETS,Other Noncurrent Assets,Unrestricted Net Assets
+3179,3118,INVESTMENT IN SUBS,1510,Other Noncurrent Assets,Unrestricted Net Assets
+3192,990,Cancer Center M-R,,Other Noncurrent Assets,Unrestricted Net Assets
+3220,2707,Noncontrolling Interest in Sub,Noncontrolling Interest in Sub,Other Noncurrent Assets,Unrestricted Net Assets
+2719,1390,EQUITY BASALT,,Other Noncurrent Assets,Unrestricted Net Assets

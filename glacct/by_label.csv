@@ -1,0 +1,110 @@
+label_pred,row_cnt,mean_confidence_score,proportion_correct,difference
+Income Statement - Revenue - Other - Operating - Intercompany Revenue,279,0.8956057605030675,0.03225806451612903,-0.8633476959869385
+Income Statement - Revenue - Other - Operating - Other Operating Revenue,6904,0.7544274700340832,0.17062572421784472,-0.5838017458162384
+Income Statement - Revenue - Patient - Gross - Revenue - Other Patient Charges,76,0.7008611730994412,0.14473684210526316,-0.556124330994178
+Income Statement - Expenses - Corporate Allocations - Corporate Allocations,179,0.6668847184683693,0.2122905027932961,-0.4545942156750732
+Balance Sheet - Liabilities - Noncurrent - Pension and Other Employee Benefit Liabilities - LT,73,0.5868889370643706,0.136986301369863,-0.4499026356945076
+Income Statement - Revenue Deduction - Bad Debt,410,0.8040252275040902,0.3878048780487805,-0.4162203494553097
+Income Statement - Expenses - Operating - Other Expenses - Employee Reimbursement,103,0.747438447665159,0.33980582524271846,-0.4076326224224405
+Income Statement - Revenue Deduction - Other Deduction,118,0.5993241852806322,0.2033898305084746,-0.39593435477215766
+Income Statement - Expenses - Operating - Non-FTE Salaries,53,0.6105591971799442,0.22641509433962265,-0.3841441028403216
+Income Statement - Revenue Deduction - Charity Care,246,0.8305632124322809,0.4634146341463415,-0.36714857828593944
+Income Statement - Revenue - Patient - Gross - Revenue - Outpatient,928,0.8010185849677872,0.4536637931034483,-0.34735479186433893
+Income Statement - Revenue - Other - Nonoperating Items - Nonoperating income (loss),2190,0.36316592438827416,0.036073059360730596,-0.3270928650275436
+Income Statement - Expenses - Operating - Other Expenses - General and Admin,327,0.5144598808037221,0.1926605504587156,-0.32179933034500646
+Income Statement - Expenses - Operating - Benefits - Travel and Education,411,0.5262379441429825,0.22627737226277372,-0.2999605718802088
+Balance Sheet - Liabilities - Current - Accrued Expenses,299,0.7959513089410685,0.5083612040133779,-0.28759010492769055
+Income Statement - Expenses - Operating - Professional Fees,463,0.6808743910236349,0.4038876889848812,-0.2769867020387537
+Balance Sheet - Assets - Investment - Long Term Investments,63,0.6978708066157353,0.42857142857142855,-0.26929937804430676
+Unable -  to - Categorize,299,0.5371021825015284,0.2709030100334448,-0.2661991724680836
+Balance Sheet - Assets - Investment - Assets Limited as to Use,254,0.5640086808420671,0.3110236220472441,-0.252985058794823
+Income Statement - Revenue - Patient - Gross - Revenue - Inpatient,534,0.8116834699724937,0.5617977528089888,-0.24988571716350494
+Income Statement - Revenue - Other - Operating - Grant Revenue,93,0.661915612147739,0.41935483870967744,-0.24256077343806154
+Income Statement - Expenses - Operating - Supplies - Implants,214,0.8250844221294091,0.5887850467289719,-0.23629937540043722
+Income Statement - Expenses - Operating - Depreciation - Equipment,80,0.6443343039978208,0.4125,-0.2318343039978208
+Income Statement - Expenses - Operating - Purchased Services - Legal Fees,82,0.8153561575811303,0.5853658536585366,-0.2299903039225938
+Balance Sheet - Net Assets - Temporarily Restricted - Temporarily Restricted Net Assets,4266,0.8508881870062227,0.623300515705579,-0.22758767130064372
+Balance Sheet - Assets - Current - Other Current Assets,143,0.41392321468555615,0.21678321678321677,-0.19713999790233938
+Income Statement - Revenue - Other - Nonoperating Items - Investment Gains (Losses) - Unrealized,113,0.711776544511663,0.5221238938053098,-0.18965265070635318
+Balance Sheet - Liabilities - Current - Estimated Third Party Payor Settlements,72,0.5758032255963961,0.3888888888888889,-0.18691433670750718
+Balance Sheet - Assets - Noncurrent - Other Noncurrent Assets,716,0.5170925401414909,0.33798882681564246,-0.1791037133258484
+Income Statement - Revenue Deduction - Contractual Allowances,2722,0.7221333987070454,0.5565760470242469,-0.1655573516827985
+Income Statement - Expenses - Operating - Benefits - Payroll Tax,140,0.7327944468507833,0.5714285714285714,-0.16136587542221192
+Income Statement - Expenses - Operating - Taxes,122,0.6270705656118551,0.4672131147540984,-0.15985745085775677
+Income Statement - Revenue - Other - Nonoperating Items - Interest and Dividend Income,118,0.8174232164948179,0.6610169491525424,-0.15640626734227547
+Income Statement - Expenses - Operating - Benefits - Other,2884,0.8655211601876763,0.7108183079056866,-0.15470285228198977
+Balance Sheet - Assets - Investment - Board Designated Assets,59,0.7772806642533164,0.6271186440677966,-0.15016202018551983
+Income Statement - Revenue - Other - Nonoperating Items - Investment Income,98,0.798233319848613,0.6530612244897959,-0.14517209535881714
+Balance Sheet - Assets - Noncurrent - Deferred debt issuance costs,63,0.6110952605258231,0.47619047619047616,-0.13490478433534692
+Income Statement - Expenses - Operating - Purchased Services,2029,0.6767648958210133,0.547067520946279,-0.12969737487473432
+Balance Sheet - Assets - Current - Prepaid Expense,303,0.8937576628809479,0.7656765676567657,-0.1280810952241822
+Balance Sheet - Assets - Current - Intercompany Receivables,137,0.6258558742124397,0.5109489051094891,-0.11490696910295062
+Balance Sheet - Liabilities - Current - Other Current Liabilities,305,0.5904868066137439,0.4786885245901639,-0.11179828202357994
+Income Statement - Expenses - Operating - Supplies - Non-Chargeable Medical,70,0.5782914284108672,0.4714285714285714,-0.1068628569822958
+Income Statement - Expenses - Interest - Interest,359,0.8407398837097155,0.7381615598885793,-0.10257832382113619
+Balance Sheet - Assets - Investment - Bond Funds,83,0.655053113322079,0.5542168674698795,-0.10083624585219952
+Balance Sheet - Assets - Patient Accounts Receivable (Gross) - Accounts Receivable (Gross),1197,0.4982496561814271,0.39849624060150374,-0.09975341557992334
+Balance Sheet - Assets - Depreciable - Depreciable Assets,84,0.647010163519066,0.5476190476190477,-0.09939111590001837
+Balance Sheet - Liabilities - Noncurrent - Long Term Liabilities,1537,0.28201938162080736,0.1867273910214704,-0.09529199059933696
+Balance Sheet - Assets - Current - Accounts Receivable - Other,2628,0.5064752604643789,0.4121004566210046,-0.09437480384337427
+Income Statement - Expenses - Operating - Other Expenses - Medical Claims,108,0.5592283266292669,0.4722222222222222,-0.0870061044070447
+Income Statement - Revenue - Patient - Gross - Revenue - Professional Billing,67,0.6231372522928099,0.5373134328358209,-0.08582381945698903
+Income Statement - Revenue - Other - Operating - Retail Revenue,96,0.7619455388955069,0.6770833333333334,-0.0848622055621735
+Balance Sheet - Assets - Noncurrent - Goodwill and Other Intangibles,51,0.7319028895359833,0.6470588235294118,-0.08484406600657146
+Income Statement - Expenses - Operating - Supplies,1781,0.6382735873305406,0.5541830432341381,-0.08409054409640249
+Income Statement - Expenses - Operating - Repairs and Maintenance,392,0.7679954377537701,0.6862244897959183,-0.08177094795785178
+Income Statement - Revenue - Other - Nonoperating Items - Investment Gains (Losses) - Realized,107,0.7815551700634265,0.7009345794392523,-0.08062059062417415
+Balance Sheet - Liabilities - Current - Accrued Employee Compensation and Benefits,1156,0.631855164631559,0.5544982698961938,-0.07735689473536522
+Income Statement - Expenses - Operating - Depreciation - Buildings,61,0.6650938952427774,0.5901639344262295,-0.0749299608165479
+Income Statement - Expenses - Operating - Amortization,66,0.7229498666904179,0.6515151515151515,-0.07143471517526645
+Balance Sheet - Liabilities - Current - Due to affiliates (Current Portion),212,0.6310937696517201,0.5613207547169812,-0.06977301493473897
+Income Statement - Expenses - Operating - Supplies - Chargeable Medical,1469,0.7196849039195369,0.6630360789652825,-0.056648824954254384
+Balance Sheet - Assets - Inventory - Inventory,585,0.8557597651439943,0.8017094017094017,-0.054050363434592574
+Income Statement - Expenses - Operating - Insurance,182,0.7842769230310023,0.7362637362637363,-0.04801318676726596
+Balance Sheet - Debt - Long Term - Long Term Debt,338,0.73688593938139,0.7011834319526628,-0.03570250742872727
+Income Statement - Revenue - Other - Operating - Lease and Rental Income,86,0.8668896924490077,0.8372093023255814,-0.02968039012342627
+Income Statement - Expenses - Operating - Utilities,464,0.7267924929961146,0.7047413793103449,-0.02205111368576973
+Balance Sheet - Liabilities - Accounts Payable - Accounts Payable - Accrued Interest Payable,75,0.8867867551063413,0.8666666666666667,-0.02012008843967461
+Income Statement - Expenses - Operating - Facilities - Rent,194,0.6990320623208708,0.6804123711340206,-0.01861969118685014
+Income Statement - Expenses - Operating - Benefits - Dental,61,0.7257933902093153,0.7213114754098361,-0.004481914799479236
+Income Statement - Expenses - Operating - Benefits - Health Insurance,127,0.74231163830438,0.7401574803149606,-0.002154157989419314
+Income Statement - Expenses - Operating - Equipment,144,0.6946209714910871,0.6944444444444444,-0.00017652704664272711
+Income Statement - Expenses - Operating - Supplies - Medical,179,0.47877603841191746,0.4860335195530726,0.007257481141155153
+Income Statement - Expenses - Operating - Purchased Services - Consulting,699,0.745317503883717,0.753934191702432,0.008616687818715052
+Income Statement - Revenue - Other - Nonoperating Items - Other Nonoperating Rev (Exp),325,0.848283674824205,0.8584615384615385,0.010177863637333529
+Balance Sheet - Liabilities - Current - Deferred Revenue,98,0.7129356264314752,0.7244897959183674,0.01155416948689214
+Income Statement - Expenses - Operating - Information Technology and Software,370,0.6983902457699244,0.7108108108108108,0.0124205650408864
+Balance Sheet - Liabilities - Accounts Payable - Accounts Payable,472,0.7703527802120411,0.7838983050847458,0.013545524872704662
+Balance Sheet - Assets - Current - Accounts Receivable - Third Party Settlements,82,0.6190816296697425,0.6341463414634146,0.015064711793672192
+Income Statement - Expenses - Operating - Depreciation,85,0.7256642146181745,0.7411764705882353,0.015512255970060784
+Balance Sheet - Assets - Current - Accounts Receivable - Due from Related Parties,314,0.5679725008957408,0.5955414012738853,0.027568900378144523
+Income Statement - Expenses - Operating - Benefits - Retirement,117,0.7325731447078364,0.7606837606837606,0.028110615975924236
+Income Statement - Expenses - Operating - Benefits - Employee Development and Recognition,52,0.6031255475427373,0.6346153846153846,0.0314898370726473
+Balance Sheet - Net Assets - Unrestricted - Unrestricted Net Assets,2072,0.9294466059073312,0.9613899613899614,0.031943355482630165
+Balance Sheet - Assets - Current - Cash and Cash Equivalents,863,0.8140293688921109,0.8551564310544612,0.04112706216235029
+Balance Sheet - Assets - Investment - Other Investments,349,0.5233386457052691,0.5730659025787965,0.049727256873527415
+Balance Sheet - Assets - Accounts Receivable Contractual Allowance - Accounts Receivable - Contractual Allowance,358,0.5499574778742906,0.6005586592178771,0.05060118134358649
+Balance Sheet - Assets - Depreciable - Property/Plant/Equipment,495,0.589169714570889,0.6404040404040404,0.05123432583315146
+Income Statement - Expenses - Operating - Contract Labor,272,0.7720491082115319,0.8382352941176471,0.06618618590611514
+Income Statement - Expenses - Operating - Other Expenses - Food,553,0.8055110512226981,0.8770343580470162,0.07152330682431818
+Balance Sheet - Debt - Long Term - Current Maturities,69,0.6598323861113871,0.7391304347826086,0.07929804867122159
+Income Statement - Expenses - Operating - Supplies - Linen and Uniforms,90,0.7573217164135083,0.8444444444444444,0.08712272803093613
+Income Statement - Expenses - Operating - Salaries - Incentive,70,0.5941636107493908,0.6857142857142857,0.09155067496489488
+Balance Sheet - Assets - CIP - CIP,1402,0.8663318544239407,0.9607703281027105,0.09443847367876979
+Income Statement - Expenses - Operating - Marketing,142,0.6922651607754868,0.7887323943661971,0.0964672335907103
+Balance Sheet - Assets - Accumulated Depreciation - Accumulated Depreciation,304,0.8014459570071907,0.9013157894736842,0.0998698324664935
+Income Statement - Expenses - Operating - Other Expenses,8303,0.5487053985329529,0.6519330362519571,0.10322763771900423
+Income Statement - Revenue - Other - Operating - Premium and Other Revenue,92,0.795101997906768,0.9130434782608695,0.11794148035410146
+Income Statement - Expenses - Operating - Salaries,6199,0.74843223999152,0.8964349088562671,0.1480026688647471
+Income Statement - Revenue Deduction - Admin Allowances,148,0.6658154193061467,0.831081081081081,0.1652656617749343
+Income Statement - Expenses - Operating - Purchased Services - Reference Testing,448,0.7726011010288921,0.9508928571428571,0.17829175611396497
+Balance Sheet - Liabilities - Accounts Payable - Accounts Payable - Accrued Payroll,72,0.765445093148394,0.9583333333333334,0.19288824018493933
+Balance Sheet - Assets - Accounts Receivable Allowance for Doubtful Accounts - Accounts Receivable - Allowance for Doubtful Accounts,356,0.5915097644544505,0.7893258426966292,0.19781607824217873
+Income Statement - Expenses - Operating - Salaries - Overtime,755,0.7102030604497666,0.9536423841059603,0.2434393236561937
+Income Statement - Expenses - Operating - Drugs,816,0.5770629192197754,0.8676470588235294,0.29058413960375407
+Income Statement - Revenue - Other - Nonoperating Items - Contributions,1305,0.4488311847782332,0.7831417624521073,0.3343105776738741
+Balance Sheet - Net Assets - Permantly Restricted - Permantly Restricted Net Assets,692,0.43649442639105784,0.7875722543352601,0.3510778279442023
+Income Statement - Expenses - Operating - Supplies - Office,345,0.5318642924250742,0.9449275362318841,0.4130632438068099
+Income Statement - Expenses - Operating - Supplies - Paper,97,0.5137399679034804,0.9381443298969072,0.4244043619934268
+Income Statement - Revenue - Other - Operating - Net Assets Released for Use in Operations,874,0.45291022431691497,0.9679633867276888,0.5150531624107738
+Balance Sheet - Assets - Current - Accounts Receivable - Notes,69,0.3316563270708462,0.8985507246376812,0.566894397566835
